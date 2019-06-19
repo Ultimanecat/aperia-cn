@@ -1,6 +1,6 @@
 sameline
 diffline0
-sameline
-sameline
+sameline_breaker1
+sameline_breaker2
 diffline1
 diffline2

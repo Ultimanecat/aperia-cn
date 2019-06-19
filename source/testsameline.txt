@@ -1,0 +1,6 @@
+sameline
+diffline0
+sameline
+sameline
+diffline1
+diffline2

@@ -37,6 +37,7 @@ for i in ls:
 		f_w = open(path, "w", encoding="utf-8")
 		for line in lines:
 			if(not needbreaker(line)):
+				f_w.write(line)
 				continue
 			if(line in dict):
 				dict[line] = dict[line] + 1 

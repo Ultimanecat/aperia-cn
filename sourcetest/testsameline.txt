@@ -1,0 +1,6 @@
+  sameline啊啊啊  
+diffline0
+!1  sameline啊啊啊  
+!2  sameline啊啊啊  
+diffline1 
+diffline2

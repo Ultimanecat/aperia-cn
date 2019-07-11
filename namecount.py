@@ -1,8 +1,10 @@
 import os
 len_thres = 10
-namelistfile = "./glossary/namelist.txt"
-nlf_w = open(namelistfile,"w",encoding = "utf-8")
-namelist = {}
+namelistfile = "./glossary/namelist2.txt"
+nlf_w = open(namelistfile,"w+",encoding = "utf-8")
+namedict = {}
+sourcedir = "./source_origin"
+ls = os.listdir(sourcedir) 
 for i in ls:	
 	path = os.path.join(sourcedir,i)
 	if os.path.isfile(path):

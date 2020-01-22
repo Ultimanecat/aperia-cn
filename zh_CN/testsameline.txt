@@ -1,0 +1,6 @@
+sameline_translated
+diffline0_tra
+sameline_breaker1
+sameline_breaker2
+diffline1_tr
+diffline2_tlkj

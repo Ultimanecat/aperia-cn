@@ -3120,7 +3120,7 @@ ap_h0084.ogg
 ap_h0085.ogg
 女骑士
 「这把剑中……这把剑中……
-　
+　有我对七海十年的爱啊啊啊！！」
 /Config/SceneSkip
 seg_037d.ogg
 ev1504_h01.akb

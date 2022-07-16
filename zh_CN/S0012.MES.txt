@@ -3287,7 +3287,7 @@ ap_r07_009.ogg
 /Config/SceneSkip
 ap_r07_000a.ogg
 　骑士们举起了剑，
-　
+　一齐向我冲了过来。
 　
 ap_r11_008.ogg
 骑士２

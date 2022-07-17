@@ -264,7 +264,7 @@ ch03_01_00_h00.akb
 ch03_01_00_h00.akb
 ap_c0503.ogg
 真白
-「嗯，那个……位置水晶，２８００円。」
+「嗯，那个……
 　
 /Config/SceneSkip
 seg_040e.ogg

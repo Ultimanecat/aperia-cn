@@ -1213,7 +1213,7 @@ ch03_01_00_h01.akb
 ch03_01_00_h01.akb
 ap_c0549.ogg
 真白
-「啊……前辈，稍等一下——」
+「啊……学长，稍等一——」
 /Config/SceneSkip
 seg_016.ogg
 bcg99.akb

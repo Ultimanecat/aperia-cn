@@ -1732,7 +1732,7 @@ ap_b1402.ogg
 /Config/SceneSkip
 seg_046.ogg
 　喷出空气的游戏台上，
-　全白的冰球滑来滑去。
+　全白的气垫滑来滑去。
 零一
 「什么！」
 /Config/SceneSkip

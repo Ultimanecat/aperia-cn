@@ -1731,8 +1731,8 @@ ap_b1402.ogg
 「请去死吧！！」
 /Config/SceneSkip
 seg_046.ogg
-　在吹出空气的游戏场地上，全白的冰球滑了出去。
-　
+　喷出空气的游戏台上，
+　全白的冰球滑来滑去。
 零一
 「这算什么！」
 /Config/SceneSkip

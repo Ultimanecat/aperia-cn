@@ -2177,7 +2177,7 @@ ap_a2141.ogg
 　开始游戏键。
 /Config/SceneSkip
 seg_046e.ogg
-　于是，不是气垫，
+　于是，不是球饼，
 　而是Ａ硬币弹了出来。
 ch04_01_00_h04.akb
 ch04_01_00_h04.akb

@@ -1415,7 +1415,7 @@ ev1600_h02.akb
 ap_b1508.ogg
 三羽
 「你、你是傻瓜吗……
- 
+　怎么可能舒——」
 /Config/SceneSkip
 ap_b1509.ogg
 ev1605.akb

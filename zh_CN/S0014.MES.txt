@@ -1276,7 +1276,7 @@ ap_b1493.ogg
 ap_b1494.ogg
 三羽
 「我不要……有感觉什么的……啊啊……嗯……
-　
+　呀……我不要，啊啊，有感觉……」
 /Config/SceneSkip
 ap_b1495.ogg……
 ev1600.akb

@@ -2181,7 +2181,7 @@ ap_b1589.ogg
 　我握住部室门把手，打开了门。
 /Config/SceneSkip
 seg_020d.ogg
-那个瞬间—
+　就在那个瞬间——
 ch04_02_00.akb
 ch04_01_00_h08.akb
 ch04_02_00.akb

@@ -1254,7 +1254,7 @@ ap_b1490.ogg
 「因为温柔抚摸，会让你有感觉。」
 ap_b1491.ogg
 三羽
-「才，才没有有感——」
+「才、才没有感——」
 /Config/SceneSkip
 ap_b1492.ogg
 ev1600.akb

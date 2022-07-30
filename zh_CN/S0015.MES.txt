@@ -3790,7 +3790,7 @@ ap_f0083.ogg
 　
 ap_z0113.ogg
 零一
-「——废话太多了，我应该拒绝过你了吧，Ｔｈｉｎｋｅｒ。」
+「——没完没了啊。
 　
 /Config/SceneSkip
 seg_029i.ogg

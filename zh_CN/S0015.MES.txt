@@ -3791,7 +3791,7 @@ ap_f0083.ogg
 ap_z0113.ogg
 零一
 「——没完没了啊。
-　
+　我应该拒绝过你了吧，Ｔｈｉｎｋｅｒ。」
 /Config/SceneSkip
 seg_029i.ogg
 ap_f0084.ogg

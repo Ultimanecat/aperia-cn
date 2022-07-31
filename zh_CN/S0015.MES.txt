@@ -4163,7 +4163,7 @@ ch07_01_00_h01.akb
 ap_g0023.ogg
 　
 「咕……一击必杀之——」
-　Ｏｎｅ　Ｔｕｒｎ　　
+　
 一击必杀之——」
 /Config/SceneSkip
 seg_029b.ogg

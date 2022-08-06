@@ -943,7 +943,7 @@ ap_d0828.ogg
 ap_d0829.ogg
 久远
 「……真的吗？可你都变得这么大了。
-　
+　脑子里全是下流的事情，那可不好。」
 　
 /Config/SceneSkip
 ap_d0830.ogg

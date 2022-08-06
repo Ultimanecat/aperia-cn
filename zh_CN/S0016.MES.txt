@@ -701,7 +701,7 @@ ch02_01_00_h11.akb
 ap_b1789.ogg
 三羽
 「完！全！没有。
-　
+　请真正温柔地对待她们。」
 /Config/SceneSkip
 seg_020b.ogg
 ap_d0818.ogg

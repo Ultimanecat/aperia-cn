@@ -1095,7 +1095,7 @@ ap_c0732.ogg
 　
 ap_c0733.ogg
 真白
-「这，这样啊。啊哈哈……」
+「这、这样啊。啊哈哈……」
 /Config/SceneSkip
 ap_d0844.ogg
 ev1900.akb

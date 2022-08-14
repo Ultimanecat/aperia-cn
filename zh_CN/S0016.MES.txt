@@ -1276,7 +1276,7 @@ ap_c0746.ogg
 ap_d0859.ogg
 久远
 「像我刚才那样做就好了。」
-　就行了哦。」
+　
 /Config/SceneSkip
 ap_d0860.ogg
 ap_c0747.ogg

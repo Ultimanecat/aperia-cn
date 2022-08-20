@@ -3785,7 +3785,7 @@ ap_b1806.ogg
 /Config/SceneSkip
 seg_023b.ogg
 零一
-「唔哦哦————噫！！」
+「喂喂喂——！！」
 ch02_04_00.akb
 ch02_04_00.akb
 ch02_01_00_h08.akb

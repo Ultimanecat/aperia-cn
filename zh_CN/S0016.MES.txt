@@ -1299,7 +1299,7 @@ ap_c0749.ogg
 真白
 「啾，啾啪，嗯，嗯嗯嗯，舔舔，
 　舔舔……嗯啾……啊，嗯啾，哈啊，
-　舔啾，嗯啾……」
+　咧啾，嗯啾……」
 /Config/SceneSkip
 ap_c0750.ogg
 /Config/SceneSkip

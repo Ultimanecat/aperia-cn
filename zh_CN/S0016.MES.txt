@@ -1428,7 +1428,7 @@ ap_d0868.ogg
 ap_c0762.ogg
 真白
 「哎……啊，嗯。啾，
-　啾舔，噼嚓……」
+　啾，舔，呣啧呣啧……」
 /Config/SceneSkip
 ap_c0763.ogg
 /Config/SceneSkip

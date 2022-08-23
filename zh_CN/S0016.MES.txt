@@ -3877,7 +3877,7 @@ ev9910.akb
 ev9910.akb
 ap_f0209.ogg
 Ｔｈｉｎｋｅｒ
-「——就此开始。」
+「——现在开演。」
 /Config/SceneSkip
 seg_043.ogg
 fo

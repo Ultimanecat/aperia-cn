@@ -6138,7 +6138,7 @@ ev2200.akb
 ev2200.akb
 ap_c0868.ogg
 真白
-「啊……前辈……对不起……」
+「啊……学长……对不起……」
 /Config/SceneSkip
 seg_035a.ogg
 /Config/Movie/Play

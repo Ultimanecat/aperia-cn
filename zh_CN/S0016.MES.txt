@@ -5863,7 +5863,7 @@ t01_009.ogg
 　扭曲的噪声冲破云霄。
 　令人不快的呐喊，毛骨悚然的诅咒。
 　那声音仿佛百种地狱在此齐设，
-　
+　又如污泥般一寸寸地向四面八方烂去。
 /Config/SceneSkip
 seg_029b.ogg
 /Config/SceneSkip

@@ -183,7 +183,7 @@ dnapcB_bg.akb
 「…………」
 　这是怎么一回事？
 　我记得这是我以前，
-　
+　按照骚扰邮件的指示发出去的邮件。
 /Config/SceneSkip
 seg_049.ogg
 seg_049.ogg

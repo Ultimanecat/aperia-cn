@@ -5868,7 +5868,7 @@ t01_009.ogg
 seg_029b.ogg
 /Config/SceneSkip
 t01_000a.ogg
-　然后白色闪光比声音传进耳朵更快劈开了黑暗。
+　接着，不待那恶声同人耳相接，
 　
 /Config/SceneSkip
 seg_029b.ogg

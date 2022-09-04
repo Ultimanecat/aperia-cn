@@ -5875,7 +5875,7 @@ seg_029b.ogg
 /Config/SceneSkip
 t01_001a.ogg
 　绝剑每次挥动，魑魅魍魉都会进一步增殖，
-　
+　而绝剑也进一步加速。
 　眼睛已经无法跟上刀刃，在一次呼吸之间斩击的次数达到了２０４次。
 　
 /Config/SceneSkip

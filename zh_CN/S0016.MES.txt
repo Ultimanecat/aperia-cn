@@ -6118,7 +6118,7 @@ ap_z0183.ogg
 「那我挂了。」
 ap_b1844.ogg
 三羽
-“……好的。”
+『……好的。』
 /Config/SceneSkip
 seg_013c.ogg
 ap_f0279.ogg

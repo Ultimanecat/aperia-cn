@@ -390,7 +390,7 @@ ch04_01_00.akb
 ch04_01_00_h08.akb
 ap_d0969.ogg
 久远
-“哎，等一下——”
+『哎，等一下——』
 /Config/SceneSkip
 seg_013c.ogg
 零一

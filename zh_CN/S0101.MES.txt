@@ -54,7 +54,7 @@ ap_a0809.ogg
 「给她打电话。」
 ap_a0810.ogg
 艾佩理雅
-「收到。拨打电话」
+「收到。开始拨打电话。」
 /Config/SceneSkip
 seg_013r.ogg
 ap_c0869.ogg

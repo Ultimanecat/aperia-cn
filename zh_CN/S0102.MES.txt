@@ -1279,7 +1279,7 @@ ap_s14_039.ogg
 　
 　
 继母已经架好了手机，
-　我和三羽苦笑。
+　我和三羽相对苦笑。
 /Config/SceneSkip
 seg_013q.ogg
 ch02_01_00.akb

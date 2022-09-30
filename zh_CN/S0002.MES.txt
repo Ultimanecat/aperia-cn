@@ -1073,7 +1073,7 @@ fi
 wi
 　当晚——
 　我在自己房间的床上发呆，
-　一边疗愈着一天下来的疲劳。
+　疗愈着一天下来的疲劳。
 /Config/SceneSkip
 seg_013a.ogg
 ap_a0005.ogg

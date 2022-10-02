@@ -1412,7 +1412,7 @@ ap_a0843.ogg
 bcg04c.akb
 bcg04c.akb
 　走出房间，三羽恰好在客厅里。
-　在客厅。
+　
 ch02_01_00.akb
 ch02_01_00.akb
 ap_b1901.ogg

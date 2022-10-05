@@ -1702,7 +1702,7 @@ bcg05c.akb
 /Config/SceneSkip
 seg_006c.ogg
 零一
-「美海，去了！！」
+「美海，我射了！！」
 /Config/SceneSkip
 seg_006a.ogg
 ch02_01_00.akb

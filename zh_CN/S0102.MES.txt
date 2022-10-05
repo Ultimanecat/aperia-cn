@@ -1717,7 +1717,7 @@ ap_b1917.vo
 「啊……」
 ap_b1918.ogg
 三羽
-「诶…………？」
+「欸…………？」
 　突然止不住地――
 /Config/SceneSkip
 seh_000.ogg

@@ -282,7 +282,7 @@ ap_b1956.ogg
 　
 /Config/SceneSkip
 seg_055.ogg
-　面包正好烤好了，
+　面包刚巧烤好了，
 　三羽起身去取。
 ch02_01_01.akb
 ch02_01_01.akb

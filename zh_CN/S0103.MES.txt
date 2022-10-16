@@ -1206,7 +1206,7 @@ bcg01.akb
 bcg03.akb
 bcg03.akb
 　哪怕早一秒钟也好。
-　回到了学校。
+　我一气不歇地跑回了学校。
 /Config/SceneSkip
 seg_020a.ogg
 bcg02a.akb

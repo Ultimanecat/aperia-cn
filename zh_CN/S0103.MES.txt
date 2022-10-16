@@ -1205,7 +1205,7 @@ bcg01.akb
 　好想快些见到艾佩理雅。
 bcg03.akb
 bcg03.akb
-　一刻也不休息不断奔跑，
+　哪怕早一秒钟也好。
 　回到了学校。
 /Config/SceneSkip
 seg_020a.ogg

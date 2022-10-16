@@ -829,7 +829,7 @@ bcg31f.mov
 bcg31f.akb
 　等了将将３个小时，
 　数据迁移马上就要完成的时候，
-　下起了雨。
+　雨下了起来。
 /Config/SceneSkip
 seg_010.ogg
 　而且，还伴随着雷声。

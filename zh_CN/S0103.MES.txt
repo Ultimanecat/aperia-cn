@@ -832,7 +832,7 @@ bcg31f.akb
 　雨下了起来。
 /Config/SceneSkip
 seg_010.ogg
-　而且，还伴随着雷声。
+　而且还有雷声作响。
 /Config/SceneSkip
 seg_010a.ogg
 /Config/SceneSkip

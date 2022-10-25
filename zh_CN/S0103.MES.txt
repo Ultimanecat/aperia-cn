@@ -1734,7 +1734,7 @@ bcg32.akb
 bcg32.akb
 ap_s01_001.ogg
 ＡＩ
-「声纹认证完成。密码认证完成。
+「声纹认证通过。密码认证通过。
 　解锁」
 /Config/SceneSkip
 seg_008.ogg

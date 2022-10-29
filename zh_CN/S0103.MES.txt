@@ -1983,7 +1983,7 @@ ap_d0991.ogg
 ap_a0887.ogg
 艾佩理雅
 「收到。
-　呼叫东真白」
+　呼叫东真白。」
 /Config/SceneSkip
 seg_013g.ogg
 ap_c1019.ogg

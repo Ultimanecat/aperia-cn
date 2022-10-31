@@ -3044,7 +3044,7 @@ ap_b2111.ogg
 　太卑鄙了……」
 /Config/SceneSkip
 seg_008.ogg
-　自动门打开，叔叔朝这边
+　自动门打开，
 　朝这边走来。
 ch05_01_00.akb
 ch05_01_00.akb

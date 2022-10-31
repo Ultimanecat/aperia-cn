@@ -39,7 +39,7 @@ ap_f0854.ogg
 ap_z0546.ogg
 零一
 「感谢你的邀请，下次再约吧。
-　”艾佩理雅”在等着我。」
+　『艾佩理雅』在等着我。」
 bcg32.akb
 bcg32.akb
 /Config/SceneSkip

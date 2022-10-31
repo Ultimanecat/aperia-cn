@@ -3222,7 +3222,7 @@ ap_c1043.ogg
 　再将区域设置改成了那里。
 　
 　之后，执行登录７９６服务器。
-　程序。
+　
 /Config/SceneSkip
 seg_016.ogg
 bcg99.akb

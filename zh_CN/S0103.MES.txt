@@ -3045,7 +3045,7 @@ ap_b2111.ogg
 /Config/SceneSkip
 seg_008.ogg
 　自动门打开，
-　朝这边走来。
+　叔叔朝这边走了过来。
 ch05_01_00.akb
 ch05_01_00.akb
 ch05_01_00_h03.akb

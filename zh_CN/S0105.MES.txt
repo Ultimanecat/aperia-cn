@@ -288,8 +288,8 @@ ap_b2203.ogg
 /Config/SceneSkip
 seg_013p.ogg
 seg_013p.ogg
-　三羽手机的铃声
-　响了。
+　三羽手机铃声响了。
+　
 ap_b2204.ogg
 三羽
 「啊……我是三羽。对，现在刚准备

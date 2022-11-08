@@ -1576,7 +1576,7 @@ ap_b2303.ogg
 ap_b2304.ogg
 三羽
 「真遗憾。差点就能创造出
-　
+　世纪大发现了。」
 　真是的。
 /Config/SceneSkip
 seg_020.ogg

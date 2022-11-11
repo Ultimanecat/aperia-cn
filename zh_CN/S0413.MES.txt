@@ -3105,7 +3105,7 @@ ap_z0479.ogg
 零一
 「
 ａｌｌａ　ｃａｃｃｉａ
-宛如狩猎的曲风——」
+猎歌风地——」
 /Config/SceneSkip
 seg_029h.ogg
 /Config/Movie/Play

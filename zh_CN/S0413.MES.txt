@@ -361,7 +361,7 @@ wi
 ap_z0378.ogg
 零一
 「
-　
+　ｓｅｃｏｎｄｏ
 ８／８——」
 /Config/SceneSkip
 seg_029m.ogg

@@ -362,7 +362,7 @@ ap_z0378.ogg
 零一
 「
 　
-８／８（ｓｅｃｏｎｄｏ）——」
+８／８——」
 /Config/SceneSkip
 seg_029m.ogg
 ev1216.akb

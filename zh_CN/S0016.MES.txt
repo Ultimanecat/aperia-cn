@@ -5811,7 +5811,7 @@ ev1206.akb
 ev1206.akb
 ap_z0171.ogg
 零一
-「不好意思，让我“去”一下吧。」
+「不好意思，让我『去』一下吧。」
 /Config/SceneSkip
 t01_008b.ogg
 t01_008b.ogg

@@ -20,7 +20,7 @@ wi
 　
 bcg02.akb
 bcg02.akb
-　进去后——
+　推门走进部室——
 ch04_02_00.akb
 ch04_02_00.akb
 ch04_01_00_h06.akb

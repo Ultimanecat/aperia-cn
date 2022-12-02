@@ -54,8 +54,8 @@ ap_c1599.ogg
 「什么啊？」
 零一
 「看好了，还剩３秒。」
-２，
-１，
+　２，
+　１，
 /Config/SceneSkip
 seg_010a.ogg
 bcg02c.akb

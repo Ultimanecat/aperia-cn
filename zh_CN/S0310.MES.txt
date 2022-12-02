@@ -44,7 +44,7 @@ ap_d2073.ogg
 零一
 「还有３秒。」
 　２，
-　１、
+　１，
 /Config/SceneSkip
 seg_010a.ogg
 bcg02c.akb

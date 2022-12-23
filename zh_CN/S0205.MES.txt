@@ -1377,8 +1377,8 @@ ap_c1800.ogg
 bcg07.akb
 bcg07.akb
 　一到边际塔，
-　我们立刻移步２楼。
-　然后坐上了边际过山车。
+　我们立刻去往２楼。
+　然后，坐上了边际过山车。
 　
 /Config/SceneSkip
 seg_068.ogg

@@ -2143,7 +2143,7 @@ ch03_01_00_ho01.akb
 ap_c1863.ogg
 真白
 「啊啊啊！！我、我，
-　臣妾真的做不到啊！」
+　臣妾真真是做不到啊！」
 /Config/SceneSkip
 seg_020a.ogg
 零一

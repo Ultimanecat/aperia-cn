@@ -1648,7 +1648,7 @@ ev3700_h04.akb
 ev3700_h04.akb
 ap_c1830.ogg
 真白
-8#「…………」
+「…………」
 ev3701.akb
 ev3701.akb
 ev3700_h042.akb

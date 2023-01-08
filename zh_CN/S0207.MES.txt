@@ -929,7 +929,7 @@ ap_c2465.ogg
 　
 　
 　也有可能保持记忆。
-　就像我和真白那样。
+　就像我和真白这样。
 /Config/SceneSkip
 seg_049b.ogg
 ap_a2016.ogg

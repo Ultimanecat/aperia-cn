@@ -2170,7 +2170,7 @@ ch09_01_00.akb
 ch09_01_00_h04.akb
 ap_h0027.ogg
 女骑士
-「斩断一切吧——Ｇｒａｍ！！」
+「斩断一切吧——Ｇｒａｍ！」
 bcg14c.akb
 bcg14c.akb
 /Config/SceneSkip

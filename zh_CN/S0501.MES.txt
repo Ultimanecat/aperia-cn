@@ -1197,7 +1197,7 @@ ap_a2375.ogg
 /Config/SceneSkip
 seg_087a.ogg
 　动静停了下来，
-　最终停息了下来。
+　似乎开完了。
 ap_s01_067.ogg
 ＡＩ
 「全息投影已解除。」

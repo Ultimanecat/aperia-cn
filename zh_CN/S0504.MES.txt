@@ -245,7 +245,7 @@ seg_076b.ogg
 seg_076b.ogg
 零一
 「…………」
-　救护车的警报声
+　救护车的警笛由远及近。
 　从远方接近。
 /Config/SceneSkip
 seg_076a.ogg

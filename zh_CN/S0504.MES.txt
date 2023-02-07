@@ -246,7 +246,7 @@ seg_076b.ogg
 零一
 「…………」
 　救护车的警笛由远及近。
-　从远方接近。
+　
 /Config/SceneSkip
 seg_076a.ogg
 　声音愈发的清晰，响亮，

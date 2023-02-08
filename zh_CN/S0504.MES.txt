@@ -482,7 +482,7 @@ ch01_01_00_h10.akb
 ch01_01_00_h10.akb
 ap_a2742.ogg
 艾佩理雅
-1#「收到。」
+「收到。」
 bcg06b.akb
 bcg06b.akb
 ch01_01_00.akb

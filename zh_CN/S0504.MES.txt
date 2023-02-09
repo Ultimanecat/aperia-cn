@@ -799,7 +799,7 @@ ch01_01_00_h10.akb
 ch01_01_00_h10.akb
 ap_a2758.ogg
 艾佩理雅
-2#「收到。」
+「收到。」
 ev7302.akb
 ev7302.akb
 /Config/SceneSkip

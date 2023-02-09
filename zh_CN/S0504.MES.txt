@@ -814,7 +814,7 @@ t03_000.ogg
 　８，
 　７，
 　拜托别动啊……
-　６、
+　６，
 　５、
 /Config/SceneSkip
 t03_002.ogg

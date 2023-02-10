@@ -928,7 +928,7 @@ ap_e0455.ogg
 「嗯，看来是没受伤啊。」
 /Config/SceneSkip
 seg_008a.ogg
-　入口的大门开启。
+　入口的门开了。
 fo
 fo
 fo

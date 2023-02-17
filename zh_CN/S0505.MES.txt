@@ -491,7 +491,7 @@ seg_073f.ogg
 　屏幕没有反应。
 /Config/SceneSkip
 seg_073a.ogg
-　即便如此，我还是按下了回车。
+　我没有管，直接按下回车。
 /Config/SceneSkip
 seg_073h.ogg
 ev7601.akb

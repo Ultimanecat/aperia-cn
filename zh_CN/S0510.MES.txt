@@ -235,7 +235,7 @@ ap_d2539.ogg
 ap_d2540.ogg
 久远
 『我全都想起来了。
-　我们是在进行穿越！』
+　我们是在反复穿越吧！』
 /Config/SceneSkip
 seg_077.ogg
 ap_d2541.ogg

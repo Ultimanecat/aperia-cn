@@ -220,7 +220,7 @@ ap_a3769.ogg
 　被病毒袭击的话，就全完了。」
 零一
 「需要先找个安全的地方避难——」
-　一个更安全的地方——」
+　
 /Config/SceneSkip
 seg_013b.ogg
 seg_013b.ogg

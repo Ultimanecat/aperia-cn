@@ -46,7 +46,7 @@ ch08_02_00.akb
 /Config/SceneSkip
 seg_031h.ogg
 　艾佩理雅用杖打了一下，
-　病毒便瞬间消散了。
+　病毒轻易就消散了。
 　然后——
 ch08_02_00.akb
 ch08_02_00.akb

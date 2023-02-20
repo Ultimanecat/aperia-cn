@@ -95,7 +95,7 @@ ap_a3764.ogg
 　然而——
 /Config/SceneSkip
 seg_066.ogg
-　艾佩莉雅好不容易才
+　一只病毒冲了过来，
 　防住了病毒的一波突进。
 /Config/SceneSkip
 seg_066.ogg

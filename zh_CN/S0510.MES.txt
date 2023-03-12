@@ -725,7 +725,7 @@ ch01_01_00_h10.akb
 ch01_01_00_h10.akb
 ap_a3799.ogg
 艾佩理雅
-「Ｏｗｎｅｒ的存活是最优先事项」
+「Ｏｗｎｅｒ的存活是最优先事项。」
 /Config/SceneSkip
 seg_044.ogg
 dk0007.akb

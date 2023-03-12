@@ -997,7 +997,7 @@ seg_044a.ogg
 零一
 「艾佩理雅……」
 零一
-「这次，一定要守护你」
+「这次，一定要保护你。」
 /Config/SceneSkip
 seg_059.ogg
 bcg97.akb

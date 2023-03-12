@@ -802,7 +802,7 @@ ap_a3807.ogg
 　心哪里还会有缺陷啊！！」
 ap_a3808.ogg
 艾佩理雅
-1#「……Ｏｗｎｅｒ……」
+「……Ｏｗｎｅｒ……」
 /Config/SceneSkip
 seg_044.ogg
 dk0008.akb

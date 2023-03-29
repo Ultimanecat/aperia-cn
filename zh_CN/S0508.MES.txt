@@ -3639,7 +3639,7 @@ bcg05c.akb
 /Config/SceneSkip
 seg_006c.ogg
 零一
-「喔。」
+「在。」
 ap_a3376.ogg
 艾佩理雅
 「是艾佩理雅。

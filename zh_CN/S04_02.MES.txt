@@ -238,7 +238,7 @@ ap_b2521.ogg
 /Config/SceneSkip
 seg_008a.ogg
 零一
-「…………！？」
+「…………？！」
 　有人来了吗？
 　被看到就糟了。怎么办？
 ap_b2522.ogg

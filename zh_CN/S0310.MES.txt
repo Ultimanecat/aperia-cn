@@ -87,7 +87,7 @@ ap_d2077.ogg
 久远
 「你看，果然是骗我的。」
 零一
-1#「…………」
+「…………」
 /Config/SceneSkip
 seg_012.ogg
 bcg02a.akb

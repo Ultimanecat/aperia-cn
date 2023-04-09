@@ -3122,7 +3122,7 @@ fi
 fi
 fi
 wi
-　Ｔｈｉｎｋｅｒ从Third登出了。
+　Thinker从Third登出了。
 　
 /Config/SceneSkip
 seg_013a.ogg

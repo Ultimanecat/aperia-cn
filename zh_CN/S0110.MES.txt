@@ -3393,8 +3393,8 @@ ch06_01_00.akb
 ap_f0515.ogg
 Thinker
 「
-　　　　影
-ἐλπίς」
+　
+ἐλπίς（影）。」
 /Config/SceneSkip
 seg_039g.ogg
 ev1702_h02.akb

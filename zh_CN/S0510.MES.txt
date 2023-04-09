@@ -507,7 +507,7 @@ ch01_01_00_h07.akb
 ch01_01_00_h07.akb
 ap_a3784.ogg
 艾佩理雅
-「……Negative. 
+「……Negative.
 　登录操作执行失败。」
 零一
 「什么原因？」
@@ -853,7 +853,7 @@ fi
 wi
 ap_a3810.ogg
 艾佩理雅
-「Negative. 」
+「Negative.」
 ap_a3811.ogg
 艾佩理雅
 「请夸奖一下吧，Owner。」

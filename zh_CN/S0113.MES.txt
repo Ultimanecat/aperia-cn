@@ -4377,7 +4377,7 @@ ch01_02_00.akb
 ch01_01_00_h00.akb
 ap_a1396.ogg
 艾佩理雅
-「收到。发动心愿。Positive. 
+「收到。发动心愿。Positive.
 　正在确认硬币获取信息，同时，
 　正在获取、伪装位置信息。」
 /Config/SceneSkip
@@ -7956,7 +7956,7 @@ ch01_01_00_h00.akb
 ch01_01_00_h00.akb
 ap_a1441.ogg
 艾佩理雅
-「收到。发动心愿。Positive. 
+「收到。发动心愿。Positive.
 　开始搜索混沌公主。」
 /Config/SceneSkip
 seg_031d.ogg

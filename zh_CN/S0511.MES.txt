@@ -3159,7 +3159,7 @@ ap_f1293.ogg
 Thinker
 「
 　
-Pyxis（箱）.」
+Pyxis（箱）。」
 /Config/SceneSkip
 seg_039k.ogg
 ap_f1294.ogg

@@ -3148,7 +3148,7 @@ ap_z0722.ogg
 　
 　
 　
-琶音风地！」
+琶音风地（arpeggiamente）！」
 ev1700.akb
 ev1700.akb
 /Config/SceneSkip

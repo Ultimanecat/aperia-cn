@@ -1905,10 +1905,10 @@ Thinker
 「…………」
 ap_f0568.ogg
 Thinker
-「Ａｌｐｈａ队，回答呢？」
+「Alpha队，回答呢？」
 ap_f0569.ogg
 Thinker
-「Ｂｒａｖｏ，Ｃｈａｒｌｉｅ，Ｄｅｌｔａ，
+「Bravo, Charlie, Delta,
 　回话！」
 零一
 「没用的。」

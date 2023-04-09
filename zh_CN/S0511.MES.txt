@@ -3738,7 +3738,7 @@ ap_f1325.ogg
 Thinker
 「
 　
-ἐλπίς.」
+ἐλπίς..」
 /Config/SceneSkip
 seg_039p.ogg
 ev1702_h02.akb
@@ -3985,7 +3985,7 @@ ap_f1334.ogg
 Thinker
 「
 　
-ἐλπίς」
+ἐλπίς.」
 bcg99.akb
 bcg99.akb
 /Config/SceneSkip
@@ -4144,7 +4144,7 @@ ap_f1336.ogg
 Thinker
 「
 　
-ἐλπίς」
+ἐλπίς.」
 bcg99.akb
 bcg99.akb
 /Config/SceneSkip

@@ -3871,7 +3871,7 @@ ev0901.mov
 ev0901.akb
 ap_c0281.ogg
 真白
-「２１连击１５８７６円。」
+「21连击。」
 ev0901.akb
 ev0901.akb
 　虽然真白嘴里的话有气无力，
@@ -3926,7 +3926,7 @@ ev0901.mov
 ev0901.akb
 ap_c0284.ogg
 真白
-「好，２１连击１５８７６円。」
+「好，21连击。」
 ev0702.akb
 ev0702.akb
 /Config/SceneSkip
@@ -3956,7 +3956,7 @@ ev0901.mov
 ev0901.akb
 ap_c0285.ogg
 真白
-「第三次，２１连击１５８７６円。」
+「第三次，21连击。」
 /Config/SceneSkip
 t02_006.ogg
 fo

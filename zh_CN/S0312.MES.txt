@@ -330,7 +330,7 @@ ch06_01_00.akb
 ap_f0859.ogg
 Thinker
 「
-　　　　影
+　
 ἐλπίς」
 /Config/SceneSkip
 seg_039f.ogg

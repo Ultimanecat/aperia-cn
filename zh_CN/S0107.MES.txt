@@ -3564,7 +3564,7 @@ ap_z0303.ogg
 ｓｔａｃｃａｔｏ
 　
 　
-风流云散——」
+风流云散（staccato）——」
 /Config/SceneSkip
 seg_029c.ogg
 ev1224.akb

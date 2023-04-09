@@ -1545,7 +1545,7 @@ ch01_01_00_h00.akb
 ch01_01_00_h00.akb
 ap_a0659.ogg
 艾佩理雅
-「Positive. 」
+「Positive.」
 ap_c0383.ogg
 真白
 「我也没意见。秘籍很重要。」
@@ -2890,7 +2890,7 @@ ch01_01_00_h02.akb
 ch01_01_00_h02.akb
 ap_a0693.ogg
 艾佩理雅
-「Positive. 
+「Positive.
 　为了让大家都能愉快地享受，
 　艾佩理雅也会努力的。」
 ch01_02_00.akb

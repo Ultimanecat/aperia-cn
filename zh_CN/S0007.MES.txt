@@ -15,7 +15,7 @@ ch01_01_00_h00.akb
 ch01_01_00_h00.akb
 ap_a0357.ogg
 艾佩理雅
-「Positive. 」
+「Positive.」
 ch01_01_00.akb
 ch01_01_00.akb
 ch01_01_00_h02.akb
@@ -1797,7 +1797,7 @@ ch01_01_00_h00.akb
 ch01_01_00_h00.akb
 ap_a0429.ogg
 艾佩理雅
-「Positive. 
+「Positive.
 　要发送什么信息？」
 零一
 「『喂，抖Ｍ变态。

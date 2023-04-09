@@ -1836,7 +1836,7 @@ ev9915.akb
 ap_f0423.ogg
 Thinker
 「唔……」
-　Thinker考虑了３秒左右，
+　Thinker考虑了3秒左右，
 ev9915_h01.akb
 ev9915_h01.akb
 ap_f0424.ogg

@@ -4341,7 +4341,7 @@ ap_r26_003.ogg
 ap_s13_004.ogg
 Ｇｕａｎｉｎｅ
 　
-「光线弹，发射——！」
+「光线弹（Laser Bullet），发射——！」
 /Config/SceneSkip
 seg_033d.ogg
 /Config/Movie/Play

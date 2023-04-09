@@ -656,7 +656,7 @@ ch01_01_00_h00.akb
 ch01_01_00_h00.akb
 ap_a1102.ogg
 艾佩理雅
-「收到。开始验证ID。Positive. 
+「收到。开始验证ID。Positive.
 　锁定已解除。」
 /Config/SceneSkip
 seg_065.ogg
@@ -1024,7 +1024,7 @@ ch01_01_00_h00.akb
 ap_a1119.ogg
 艾佩理雅
 「收到。访问艾佩理雅网络。
-　Positive. 
+　Positive.
 　进入游戏开发模式。」
 ch01_01_00.akb
 ch01_01_00.akb

@@ -3175,7 +3175,7 @@ Thinker
 ap_f0205.ogg
 Thinker
 『一旦正门前的病毒阵型出现了空隙，
-　Ｃｈａｒｌｉｅ，Ｄｅｌｔａ，Ｅｃｈｏ，Ｏｓｃａｒ，
+　Charlie, Delta, Echo, Oscar,
 　各队迅速前往世界树并引诱病毒。』
 ap_f0206.ogg
 Thinker

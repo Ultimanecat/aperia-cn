@@ -583,7 +583,7 @@ ch01_01_00_h00.akb
 ch01_01_00_h00.akb
 ap_a1097.ogg
 艾佩理雅
-「Positive. 
+「Positive.
 　开始搭建艾佩理雅网络。」
 　
 ch01_01_00.akb
@@ -3570,7 +3570,7 @@ ch01_01_00_h00.akb
 ch01_01_00_h00.akb
 ap_a1364.ogg
 艾佩理雅
-「Positive. 
+「Positive.
 　硬币在赌场。」
 　提示是“去狂风喷涌的大地吧，
 　只要怀揣一颗平常心前往，
@@ -4303,7 +4303,7 @@ ch01_01_00_h00.akb
 ch01_01_00_h00.akb
 ap_a1391.ogg
 艾佩理雅
-「收到。发动心愿。Positive. 
+「收到。发动心愿。Positive.
 　玩家·正圆七海的位置，正在搜索。」
 　
 /Config/SceneSkip
@@ -4353,7 +4353,7 @@ ch01_02_00.akb
 ch01_01_00_h00.akb
 ap_a1395.ogg
 艾佩理雅
-「收到。发动心愿。Positive. 
+「收到。发动心愿。Positive.
 　开始进行监视。」
 /Config/SceneSkip
 seg_031d.ogg
@@ -7065,7 +7065,7 @@ ch01_02_00.akb
 ch01_01_00_h00.akb
 ap_a1420.ogg
 艾佩理雅
-「收到。发动心愿。Positive. 
+「收到。发动心愿。Positive.
 　开始侦察病毒。」
 /Config/SceneSkip
 seg_031d.ogg
@@ -7870,7 +7870,7 @@ ch01_01_00_h00.akb
 ch01_01_00_h00.akb
 ap_a1437.ogg
 艾佩理雅
-「Positive. 
+「Positive.
 　艾佩理雅也拥有安保系统的权限。」
 　
 　也就是说，病毒并非是艾佩理雅网络制造的。

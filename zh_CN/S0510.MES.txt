@@ -539,7 +539,7 @@ ch01_01_00_h07.akb
 ch01_01_00_h07.akb
 ap_a3787.ogg
 艾佩理雅
-「Negative. 
+「Negative.
 　艾佩理雅网络无应答。」
 　
 /Config/SceneSkip

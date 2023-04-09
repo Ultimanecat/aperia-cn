@@ -3764,7 +3764,7 @@ Thymine
 ap_s13_003.ogg
 Guanine
 　
-「回复弹（Ｃｕｒｅ　Ｂｕｌｌｅｔ），来咯！」
+「回复弹（Cure Bullet），来咯！」
 /Config/SceneSkip
 seg_033a.ogg
 /Config/Movie/Play

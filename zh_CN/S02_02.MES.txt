@@ -293,7 +293,7 @@ seg_016.ogg
 /Config/SceneSkip
 seg_017.ogg
 ap_s01_045.ogg
-ＡＩ
+AI
 「发电装置出现异常。请听从工作人员指示，
 　有秩序疏散。」
 　连接舱的门又打开了。
@@ -347,7 +347,7 @@ wi
 /Config/SceneSkip
 seg_017.ogg
 ap_s01_046.ogg
-ＡＩ
+AI
 「应急代号２０２。请听从工作人员指示，
 　迅速疏散到塔外。
 　重复一遍——」

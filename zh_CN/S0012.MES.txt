@@ -2730,7 +2730,7 @@ ap_h0060.ogg
 ap_z0068.ogg
 零一
 「
-ｐｒｉｍｏ
+　
 初始之——」
 /Config/SceneSkip
 seg_029g.ogg

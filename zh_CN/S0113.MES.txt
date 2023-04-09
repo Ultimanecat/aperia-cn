@@ -2304,7 +2304,7 @@ ap_a1209.ogg
 「你知道它的名字吗？」
 ap_a1210.ogg
 艾佩理雅
-「Positive. 」
+「Positive.」
 零一
 「说说看。」
 ev3300.akb

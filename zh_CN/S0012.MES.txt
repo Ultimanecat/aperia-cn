@@ -3347,7 +3347,7 @@ ap_z0100.ogg
 　
 　
 　
-散落吧——」
+风流云散——」
 /Config/SceneSkip
 seg_029c.ogg
 /Config/Movie/Play

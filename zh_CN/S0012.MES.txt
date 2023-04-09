@@ -3324,7 +3324,7 @@ ap_z0097.ogg
 ap_z0098.ogg
 零一
 「
-ａｌｌａ　ｓｐａｇｎｏｌａ
+　
 西班牙风地。」
 /Config/SceneSkip
 seg_029h.ogg

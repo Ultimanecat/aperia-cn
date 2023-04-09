@@ -149,7 +149,7 @@ ap_a1841.ogg
 　是这样的吧？」
 ap_a1842.ogg
 艾佩理雅
-「Positive. 
+「Positive.
 　对不起，不经Owner的许可就这么做。
 　艾佩理雅等不及了……」
 ap_a1843.ogg
@@ -385,7 +385,7 @@ ap_a1860.ogg
 「能修好吗？」
 ap_a1861.ogg
 艾佩理雅
-「Positive. 
+「Positive.
 　全部修理单元均已完成AI化。
 　所需修理时间为３小时。」
 零一
@@ -428,7 +428,7 @@ ap_a1862.ogg
 　Positive. 」
 ap_a1863.ogg
 艾佩理雅
-「控制监控摄像头。Positive. 
+「控制监控摄像头。Positive.
 　管理室的工作人员，
 　注意到了发电系统的错误。」
 ch01_01_00.akb

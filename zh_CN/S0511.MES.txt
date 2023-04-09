@@ -4065,7 +4065,7 @@ ap_f1335.ogg
 Thinker
 「
 　
-ἐλπίς」
+ἐλπίς.」
 /Config/SceneSkip
 seg_039i.ogg
 /Config/Movie/Play
@@ -4836,7 +4836,7 @@ ap_f1386.ogg
 Thinker
 「
 　
-ἐλπίς」
+ἐλπίς.」
 ev1705.akb
 ev1705.akb
 　我扔出的八把凪一文字，

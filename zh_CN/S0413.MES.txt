@@ -3099,12 +3099,12 @@ ap_z0477.ogg
 ap_z0478.ogg
 零一
 「
-ｅｓｐｒｅｓｓｉｖｏ
+　
 情感丰富，」
 ap_z0479.ogg
 零一
 「
-ａｌｌａ　ｃａｃｃｉａ
+　
 猎歌风地——」
 /Config/SceneSkip
 seg_029h.ogg

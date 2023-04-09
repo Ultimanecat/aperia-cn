@@ -2170,7 +2170,7 @@ ch09_01_00.akb
 ch09_01_00_h04.akb
 ap_h0027.ogg
 女骑士
-「斩断一切吧——Ｇｒａｍ！」
+「斩断一切吧——Gram！」
 bcg14c.akb
 bcg14c.akb
 /Config/SceneSkip
@@ -3014,7 +3014,7 @@ ap_h0076.ogg
 ap_h0077.ogg
 女骑士
 「吃我这招吧，我的愤怒，我的憎恨。
-　哈啊啊啊啊，斩断一切吧————Ｇｒａｍ！！！」
+　哈啊啊啊啊，斩断一切吧————Gram！！！」
 /Config/SceneSkip
 seg_037.ogg
 ev1504.akb

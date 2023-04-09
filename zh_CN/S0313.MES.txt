@@ -3969,7 +3969,7 @@ ch01_01_00_h03.akb
 ch01_01_00_h03.akb
 ap_a2253.ogg
 艾佩理雅
-「收到。发动心愿。Ｐｏｓｉｔｉｖｅ。
+「收到。发动心愿。Positive.
 　开始鉴定头发的ＤＮＡ。」
 /Config/SceneSkip
 seg_031d.ogg

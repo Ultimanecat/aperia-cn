@@ -716,7 +716,7 @@ ch01_01_02.akb
 ch01_01_00_h00.akb
 ap_a0644.ogg
 艾佩理雅
-「Positive. 
+「Positive.
 　艾佩理雅网络判断官网是需要的，所以做了。」
 ch02_02_01.akb
 ch02_01_00_h01.akb
@@ -749,7 +749,7 @@ ch01_01_02.akb
 ch01_01_00_h00.akb
 ap_a0645.ogg
 艾佩理雅
-「Positive. 
+「Positive.
 　当前有１０５６名Ｕｓｅｒ处于线上。
 　游戏已创建账户，共３０１６个。」
 零一
@@ -916,7 +916,7 @@ ch01_01_02.akb
 ch01_01_00_h02.akb
 ap_a0650.ogg
 艾佩理雅
-「Positive. 
+「Positive.
 　艾佩理雅是好孩子。」
 零一
 「既然如此，

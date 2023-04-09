@@ -3666,7 +3666,7 @@ ch01_01_00_h00.akb
 ch01_01_00_h00.akb
 ap_a1373.ogg
 艾佩理雅
-「收到。发动心愿。Positive. 
+「收到。发动心愿。Positive.
 　寻找存在计算机的位置。」
 /Config/SceneSkip
 seg_031d.ogg
@@ -3888,7 +3888,7 @@ ch01_01_00_h00.akb
 ch01_01_00_h00.akb
 ap_a1385.ogg
 艾佩理雅
-「收到。发动心愿。Positive. 
+「收到。发动心愿。Positive.
 　寻找拥有任务用硬币的人。」
 /Config/SceneSkip
 seg_031d.ogg
@@ -5089,7 +5089,7 @@ ch01_02_00.akb
 ch01_01_00_h00.akb
 ap_a1403.ogg
 艾佩理雅
-「收到。发动心愿。Positive. 
+「收到。发动心愿。Positive.
 　当前获得常时被动解析心愿能力的效果。」
 　
 　好了，之后就是狭路相逢勇者胜了。

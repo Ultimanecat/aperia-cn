@@ -489,7 +489,7 @@ ch01_01_00_h02.akb
 ch01_01_00_h02.akb
 ap_a3823.ogg
 艾佩理雅
-「艾佩理雅也ｐｏｓｉｔｉｖｅ。」
+「艾佩理雅也positive。」
 ap_d2561.ogg
 久远
 「我也没意见。」
@@ -1010,7 +1010,7 @@ ch01_01_00.akb
 ch01_01_00_h00.akb
 ap_a3836.ogg
 艾佩理雅
-「Ｐｏｓｉｔｉｖｅ。
+「Positive.
 　开始登录。」
 /Config/SceneSkip
 seg_016.ogg

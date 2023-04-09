@@ -2291,7 +2291,7 @@ ch03_03_00.akb
 ch03_03_00.akb
 ap_c0823.ogg
 真白
-「那么……那个……窃听器，ｏｆｆｅｒ……」
+「那么……那个……窃听器，offer……」
 /Config/SceneSkip
 seg_040e.ogg
 ap_c0824.ogg

@@ -3448,8 +3448,8 @@ ev1220.akb
 ap_z0326.ogg
 零一
 「
-　ｓｅｃｏｎｄｏ
-８／８——」
+　
+8/8（secondo）——」
 /Config/SceneSkip
 seg_029m.ogg
 ev1216.akb

@@ -922,7 +922,7 @@ Thinker
 零一
 「那我不客气了。」
 零一
-「Draw four, Thinker。」
+「Draw four, Thinker.」
 /Config/SceneSkip
 seg_070c.ogg
 　抽卡后，凑成一对的束缚牌的“代牌”标记消失，

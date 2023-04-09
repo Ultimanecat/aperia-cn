@@ -5170,7 +5170,7 @@ ch06_01_00.akb
 ap_f1403.ogg
 Thinker
 「……什……么…………？！」
-　自圣域神殿发射的
+　自圣域神殿发射的光线弹（Laser Bullet），
 　
 　精准落在Thinker身上。
 /Config/SceneSkip

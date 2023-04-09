@@ -3681,7 +3681,7 @@ ch02_04_00.akb
 ch02_01_00_h00.akb
 ap_b1034.ogg
 三羽
-「Ｃｙｔｏｓｉｎｅ。」
+「Cytosine.」
 /Config/SceneSkip
 seg_033.ogg
 ev1000_b00.akb
@@ -3690,7 +3690,7 @@ ev1000d.akb
 ev1000d.akb
 ev1000d.akb
 ap_r16_000.ogg
-Ｃｙｔｏｓｉｎｅ
+Cytosine
 「嘿！」
 　三羽的心愿能力是召唤精灵。
 　通过四个精灵的祝福，
@@ -3702,7 +3702,7 @@ ap_r21_001.ogg
 Thymine
 「噢，我都等的不耐烦了。」
 ap_r16_001.ogg
-Ｃｙｔｏｓｉｎｅ
+Cytosine
 「我倒是懒得动弹。」
 ap_r26_001.ogg
 Adenine
@@ -3721,7 +3721,7 @@ Guanine
 「哎～，没有为什么啊，
 　我们想说就说啦～。」
 ap_r16_002.ogg
-Ｃｙｔｏｓｉｎｅ
+Cytosine
 「如果不想听我们说话，
 　那就干脆别召唤我们啊。」
 ch02_04_00.akb

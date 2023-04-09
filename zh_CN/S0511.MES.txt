@@ -2614,7 +2614,7 @@ ev2502.akb
 ev2502.akb
 /Config/SceneSkip
 seg_057a.ogg
-　七海利用Ｗｅｉｇｈｔ，
+　七海利用Weight，
 　延缓病毒的行动速度，
 　使它们无法填补打穿的空当；
 fo

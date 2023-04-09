@@ -727,7 +727,7 @@ ch01_01_00_h00.akb
 ap_a1813.ogg
 艾佩理雅
 「收到。访问艾佩理雅网络。
-　Positive. 
+　Positive.
 　开始追踪病毒发送源。」
 ap_a1814.ogg
 艾佩理雅

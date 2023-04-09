@@ -139,7 +139,7 @@ ch01_01_00_h06.akb
 ch01_01_00_h06.akb
 ap_a2387.ogg
 艾佩理雅
-「Negative. 
+「Negative.
 　艾佩理雅已经确认过了，
 　三羽并不在那里。」
 　不在？
@@ -1732,7 +1732,7 @@ ch01_01_00_h06.akb
 ch01_01_00_h06.akb
 ap_a2465.ogg
 艾佩理雅
-「……Negative. 
+「……Negative.
 　没有找到Thinker系统。」
 零一
 「也罢，对方不至于防不到这手。」

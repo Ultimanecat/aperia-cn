@@ -1476,7 +1476,7 @@ ev1704.akb
 bcg23.akb
 bcg23.akb
 　我什么都没做。
-　然而，Thinker的HP变成０，
+　然而，Thinker的HP变成0，
 　清空了。
 　在他的后方，有个人影。
 ch07_01_00.akb
@@ -3889,7 +3889,7 @@ ap_a2247.ogg
 ap_a2248.ogg
 艾佩理雅
 「虽然Second是死亡游戏，
-　但Owner的HP变成０的时候，
+　但Owner的HP变成0的时候，
 　死掉的其实是Third里的Owner。」
 ap_a2249.ogg
 艾佩理雅

@@ -331,7 +331,7 @@ ap_f0859.ogg
 Thinker
 「
 　
-ἐλπίς」
+ἐλπίς（影）。」
 /Config/SceneSkip
 seg_039f.ogg
 ev1702_h01.akb

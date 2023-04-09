@@ -419,7 +419,7 @@ ap_z0385.ogg
 ｓｔａｃｃａｔｏ
 　
 　
-散落吧——」
+风流云散——」
 /Config/SceneSkip
 seg_029c.ogg
 /Config/Movie/Play
@@ -1534,7 +1534,7 @@ ap_z0399.ogg
 ｓｔａｃｃａｔｏ
 　
 　
-散落吧——」
+风流云散——」
 /Config/SceneSkip
 seg_029c.ogg
 ev1222.akb
@@ -2919,7 +2919,7 @@ ap_z0470.ogg
 ｓｔａｃｃａｔｏ
 　
 　
-散落吧——」
+风流云散——」
 ev1221.akb
 ev1221.akb
 ap_z0471.ogg
@@ -3125,7 +3125,7 @@ ap_z0481.ogg
 ｓｔａｃｃａｔｏ
 　
 　
-散落吧——」
+风流云散——」
 /Config/SceneSkip
 seg_029c.ogg
 /Config/Movie/Play

@@ -368,8 +368,8 @@ ch06_01_00.akb
 ap_f0870.ogg
 Thinker
 「
-　　　　影
-ἐλπίς」
+　
+ἐλπίς（影）。」
 /Config/SceneSkip
 seg_039g.ogg
 ev1702_h02.akb
@@ -765,7 +765,7 @@ ch06_01_00.akb
 ap_f0886.ogg
 Thinker
 「
-　　　　影
+　
 ἐλπίς」
 /Config/SceneSkip
 seg_039f.ogg
@@ -797,7 +797,7 @@ ap_f0887.ogg
 Thinker
 「你觉得像刚刚那种贴身距离，
 　
-　　　　影
+　
 我不会使用ἐλπίς。」
 ap_f0888.ogg
 Thinker
@@ -857,7 +857,7 @@ ch06_01_00.akb
 ap_f0893.ogg
 Thinker
 「ἐλπίς」
-　　　　影
+　
 　
 /Config/SceneSkip
 seg_039f.ogg
@@ -989,7 +989,7 @@ ch06_01_00.akb
 ap_f0901.ogg
 Thinker
 「你刚刚确实成功防御了ἐλπίς。
-　　　　影
+　
 　
 　你假装自己像是以前的某个时间轴一样，
 　用绝剑抵消了一切攻击。」
@@ -1049,7 +1049,7 @@ ch06_01_00.akb
 ap_f0906.ogg
 Thinker
 「ἐλπίς」
-　　　　影
+　
 　
 /Config/SceneSkip
 seg_039f.ogg
@@ -1125,7 +1125,7 @@ ch06_01_00.akb
 ap_f0910.ogg
 Thinker
 「ἐλπίς」
-　　　　影
+　
 　
 /Config/SceneSkip
 seg_039f.ogg
@@ -1350,7 +1350,7 @@ ch06_01_00.akb
 ap_f0917.ogg
 Thinker
 「ἐλπίς」
-　　　　影
+　
 　
 　我和Thinker的距离
 　足有６ｍ。
@@ -1422,7 +1422,7 @@ ch06_01_00.akb
 ap_f0922.ogg
 Thinker
 「ἐλπίς」
-　　　　影
+　
 　
 /Config/SceneSkip
 seg_039f.ogg

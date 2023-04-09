@@ -417,7 +417,7 @@ ap_z0502.ogg
 ｓｔａｃｃａｔｏ
 　
 　
-散落吧——」
+风流云散——」
 /Config/SceneSkip
 seg_029n.ogg
 /Config/Movie/Play

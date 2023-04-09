@@ -334,8 +334,8 @@ ch06_01_00.akb
 ap_f0868.ogg
 Thinker
 「
-　　　　箱
-Pyxis.」
+　
+Pyxis（箱）。」
 　使出这个心愿的同时，
 　Thinker大幅度后退。
 /Config/SceneSkip
@@ -802,7 +802,7 @@ Thinker
 ap_f0888.ogg
 Thinker
 「理由是如果你用那把刀让Pyxis.爆炸，
-　　　　箱
+　
 　
 　你我都会被炸中。」
 　
@@ -829,7 +829,7 @@ ch06_01_00.akb
 ap_f0891.ogg
 Thinker
 「Pyxis.」
-　　　　箱
+　
 　
 /Config/SceneSkip
 seg_039k.ogg
@@ -928,7 +928,7 @@ ch06_01_00.akb
 ap_f0897.ogg
 Thinker
 「Pyxis.」
-　　　　箱
+　
 　
 /Config/SceneSkip
 seg_039k.ogg
@@ -1099,7 +1099,7 @@ ch06_01_00.akb
 ap_f0908.ogg
 Thinker
 「Pyxis.」
-　　　　箱
+　
 　
 /Config/SceneSkip
 seg_039k.ogg
@@ -1188,7 +1188,7 @@ ch06_01_00.akb
 ap_f0913.ogg
 Thinker
 「Pyxis.」
-　　　　箱
+　
 　
 bcg23.akb
 bcg23.akb
@@ -1390,7 +1390,7 @@ ch06_01_00.akb
 ch06_01_00.akb
 Thinker
 「没错。趁你靠近的时候，
-　　　　箱
+　
 　
 　我在那把刀上也施放了
 　一个Pyxis.立方体。」

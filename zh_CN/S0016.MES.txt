@@ -4544,7 +4544,7 @@ ap_f0242.ogg
 　把世界树周围的病毒
 　用雷达枪吸引出来。」
 ap_r24_001.ogg
-Scholar１
+Scholar1
 「了解。」
 ap_f0243.ogg
 Ｔｈｉｎｋｅｒ
@@ -4576,7 +4576,7 @@ ap_z0152.ogg
 零一
 「——到此结束。」
 ap_r24_002.ogg
-Scholar１
+Scholar1
 「咕啊啊啊啊啊啊啊啊啊啊！！」
 ch06_01_00.akb
 ch06_01_00.akb

@@ -2093,7 +2093,7 @@ ch03_01_00_h03.akb
 ap_c1294.ogg
 真白
 「Thinker的面具，白大褂，窃听器……
-　Ｏｆｆｅｒ。」
+　Offer。」
 /Config/SceneSkip
 seg_040e.ogg
 　真白使用等价交换的心愿，

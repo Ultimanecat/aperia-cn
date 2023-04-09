@@ -3259,7 +3259,7 @@ ch06_01_00.akb
 ap_f1295.ogg
 Thinker
 「
-　　　　影
+　
 ἐλπίς（影）。」
 　Thinker毫不犹豫地作出了攻击宣言。
 　下一个瞬间——
@@ -3737,7 +3737,7 @@ ch06_01_00.akb
 ap_f1325.ogg
 Thinker
 「
-　　　　影
+　
 ἐλπίς」
 /Config/SceneSkip
 seg_039p.ogg
@@ -3875,7 +3875,7 @@ ch06_01_00.akb
 ap_f1329.ogg
 Thinker
 「
-　　　　影
+　
 ἐλπίς」
 ap_z0776.ogg
 零一
@@ -3984,7 +3984,7 @@ ch06_01_00.akb
 ap_f1334.ogg
 Thinker
 「
-　　　　影
+　
 ἐλπίς」
 bcg99.akb
 bcg99.akb
@@ -4064,7 +4064,7 @@ ch06_01_00.akb
 ap_f1335.ogg
 Thinker
 「
-　　　　影
+　
 ἐλπίς」
 /Config/SceneSkip
 seg_039i.ogg
@@ -4143,7 +4143,7 @@ ch06_01_00.akb
 ap_f1336.ogg
 Thinker
 「
-　　　　影
+　
 ἐλπίς」
 bcg99.akb
 bcg99.akb
@@ -4835,7 +4835,7 @@ ch06_01_00.akb
 ap_f1386.ogg
 Thinker
 「
-　　　　影
+　
 ἐλπίς」
 ev1705.akb
 ev1705.akb
@@ -5075,7 +5075,7 @@ Thinker
 ap_f1399.ogg
 Thinker
 「
-　　　　影
+　
 ἐλπίς」
 　确信了自己的胜利，
 　Thinker如是说道。
@@ -5218,7 +5218,7 @@ ch06_01_00.akb
 ap_f1404.ogg
 Thinker
 「
-　　　　影
+　
 ἐλπίς」
 　就在Thinker念出心愿发动词的瞬间，
 　我抓住了他的面具。

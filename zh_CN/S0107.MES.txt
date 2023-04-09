@@ -3025,7 +3025,7 @@ ch10_01_00.akb
 ch10_01_00_h02.akb
 ap_k0093.ogg
 七海
-「Ｒｅｄｕｃｅ　ａｎｄ　Ｗｅｉｇｈｔ！」
+「Reduce and Weight!」
 /Config/SceneSkip
 seg_057c.ogg
 ev9936.akb

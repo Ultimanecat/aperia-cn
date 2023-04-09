@@ -1096,7 +1096,7 @@ wi
 /Config/SceneSkip
 seg_073b.ogg
 　用户ＩＤ，ｌｉｍｉｔｌｅｓｓ。
-　密码，ｍｕｇｅｎ。
+　密码，mugen。
 ev0305_03_h01.akb
 ev0305_03_h01.akb
 　用无线网连上手机，

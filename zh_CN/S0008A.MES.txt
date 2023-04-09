@@ -3562,7 +3562,7 @@ ch01_03_01.akb
 ch01_01_00_h00.akb
 ap_a0600.ogg
 艾佩理雅
-「收到。发动心愿。Positive. 
+「收到。发动心愿。Positive.
 　开始执行命令——烧毁万龙之母。」
 /Config/SceneSkip
 seg_031a.ogg

@@ -4299,7 +4299,7 @@ ch02_04_00.akb
 ch02_01_00_h00.akb
 ap_b1757.ogg
 三羽
-「Ｇｕａｎｉｎｅ。」
+「Guanine.」
 /Config/SceneSkip
 seg_033.ogg
 ev1000_c00.akb

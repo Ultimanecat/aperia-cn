@@ -333,7 +333,7 @@ ev1000d.akb
 ev1000d.akb
 ev1000d.akb
 ap_r16_007.ogg
-Ｃｙｔｏｓｉｎｅ
+Cytosine
 「嘿！」
 ch02_04_00.akb
 ch02_01_00_h11.akb

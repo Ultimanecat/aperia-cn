@@ -2630,7 +2630,7 @@ ch01_01_01.akb
 ch01_01_00_h10.akb
 ap_a2802.ogg
 艾佩理雅
-「Ｎｅｇａｔｉｖｅ。艾佩理雅
+「Negative. 艾佩理雅
 　永远和Owner站在一起。」
 ap_f1208.ogg
 Thinker

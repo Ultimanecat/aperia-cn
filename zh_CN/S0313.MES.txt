@@ -335,7 +335,7 @@ ap_f0868.ogg
 Thinker
 「
 　　　　箱
-Ｐｙｘｉｓ」
+Pyxis.」
 　使出这个心愿的同时，
 　Thinker大幅度后退。
 /Config/SceneSkip
@@ -801,7 +801,7 @@ Thinker
 我不会使用ἐλπίς。」
 ap_f0888.ogg
 Thinker
-「理由是如果你用那把刀让Ｐｙｘｉｓ爆炸，
+「理由是如果你用那把刀让Pyxis.爆炸，
 　　　　箱
 　
 　你我都会被炸中。」
@@ -828,7 +828,7 @@ ch06_01_00.akb
 ch06_01_00.akb
 ap_f0891.ogg
 Thinker
-「Ｐｙｘｉｓ」
+「Pyxis.」
 　　　　箱
 　
 /Config/SceneSkip
@@ -927,7 +927,7 @@ ch06_01_00.akb
 ch06_01_00.akb
 ap_f0897.ogg
 Thinker
-「Ｐｙｘｉｓ」
+「Pyxis.」
 　　　　箱
 　
 /Config/SceneSkip
@@ -1098,7 +1098,7 @@ ch06_01_00.akb
 ch06_01_00.akb
 ap_f0908.ogg
 Thinker
-「Ｐｙｘｉｓ」
+「Pyxis.」
 　　　　箱
 　
 /Config/SceneSkip
@@ -1187,7 +1187,7 @@ ch06_01_00.akb
 ch06_01_00.akb
 ap_f0913.ogg
 Thinker
-「Ｐｙｘｉｓ」
+「Pyxis.」
 　　　　箱
 　
 bcg23.akb
@@ -1393,7 +1393,7 @@ Thinker
 　　　　箱
 　
 　我在那把刀上也施放了
-　一个Ｐｙｘｉｓ立方体。」
+　一个Pyxis.立方体。」
 　也就是说，他那个心愿立方体
 　只要接触到凪一文字，在心愿发动时
 　就会发生爆炸吗。

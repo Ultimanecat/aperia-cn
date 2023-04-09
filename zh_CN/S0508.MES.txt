@@ -1622,7 +1622,7 @@ ap_a3096.ogg
 「要就此作罢吗？」
 ap_a3097.ogg
 艾佩理雅
-「Negative. 
+「Negative.
 　艾佩理雅即使存在羞耻，
 　也希望能和Owner一样……」
 ap_a3098.ogg
@@ -2844,7 +2844,7 @@ ch01_01_00_ho02.akb
 ch01_01_00_ho02.akb
 ap_a3271.ogg
 艾佩理雅
-「Negative. 
+「Negative.
 　这次，时钟的行进又变快了。」
 ch01_01_00_h09.akb
 ch01_01_00_h09.akb

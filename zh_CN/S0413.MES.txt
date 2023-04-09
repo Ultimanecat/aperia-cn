@@ -398,8 +398,8 @@ ap_z0382.ogg
 ap_z0383.ogg
 零一
 「
-ａｌｌａ　ｃａｃｃｉａ
-猎歌风地——」
+　
+猎歌风地（alla caccia）——」
 /Config/SceneSkip
 seg_029h.ogg
 /Config/Movie/Play

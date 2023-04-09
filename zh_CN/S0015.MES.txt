@@ -4482,7 +4482,7 @@ ch06_01_00.akb
 ch06_01_00.akb
 ap_f0122.ogg
 Thinker
-「Second里的玩家只有不到１００人。」
+「Second里的玩家只有不到100人。」
 　
 ap_f0123.ogg
 Thinker

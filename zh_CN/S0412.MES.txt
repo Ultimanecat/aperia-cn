@@ -177,7 +177,7 @@ ch02_04_00.akb
 ch02_01_00_h00.akb
 ap_b3915.ogg
 三羽
-「Ｃｙｔｏｓｉｎｅ。」
+「Cytosine.」
 /Config/SceneSkip
 seg_033.ogg
 ev1000_b00.akb
@@ -186,7 +186,7 @@ ev1000d.akb
 ev1000d.akb
 ev1000d.akb
 ap_r16_005.ogg
-Ｃｙｔｏｓｉｎｅ
+Cytosine
 「嘿！」
 ch02_04_00.akb
 ch02_01_00_h11.akb
@@ -197,7 +197,7 @@ ap_b3916.ogg
 「改写中心法则，
 　代码：蓝！」
 ap_r16_006.ogg
-Ｃｙｔｏｓｉｎｅ
+Cytosine
 「喔喔，一上来就是王炸吗？」
 ch02_04_00.akb
 ch02_01_00_h11.akb

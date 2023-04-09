@@ -477,7 +477,7 @@ wi
 ap_c2916.ogg
 真白
 「蓄能绀玉，火花紫晶，雷光神云，
-　Ｏｆｆｅｒ。」
+　Offer。」
 /Config/SceneSkip
 seg_040e.ogg
 ap_c2917.ogg

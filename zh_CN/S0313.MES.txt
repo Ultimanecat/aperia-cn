@@ -766,7 +766,7 @@ ap_f0886.ogg
 Thinker
 「
 　
-ἐλπίς」
+ἐλπίς.」
 /Config/SceneSkip
 seg_039f.ogg
 ev1702_h01.akb

@@ -2584,7 +2584,7 @@ ch01_01_00_h10.akb
 ch01_01_00_h10.akb
 ap_a2215.ogg
 艾佩理雅
-「Ｎｅｇａｔｉｖｅ。听从杀掉Owner的人的话，
+「Negative. 听从杀掉Owner的人的话，
 　不是有意义。」
 ap_g0235.ogg
 Bookman
@@ -2613,7 +2613,7 @@ ch01_01_00_h10.akb
 ch01_01_00_h10.akb
 ap_a2217.ogg
 艾佩理雅
-「Ｎｅｇａｔｉｖｅ。命令是存在的。
+「Negative. 命令是存在的。
 　Owner通过邮件发过来了。」
 ch01_02_00.akb
 ch01_02_00.akb
@@ -3419,7 +3419,7 @@ ch01_02_01.akb
 ch01_01_00_h10.akb
 ap_a2232.ogg
 艾佩理雅
-「Ｎｅｇａｔｉｖｅ。久远说的是事实。
+「Negative. 久远说的是事实。
 　Bookman是从空观复制出来的另一个人。」
 ap_a2233.ogg
 艾佩理雅
@@ -3439,7 +3439,7 @@ ch01_02_01.akb
 ch01_01_00_h10.akb
 ap_a2235.ogg
 艾佩理雅
-「Ｎｅｇａｔｉｖｅ。Bookman不是空观。
+「Negative. Bookman不是空观。
 　无论是记忆还是DNA
 　都是复制来的虚假的东西。」
 ap_a2236.ogg

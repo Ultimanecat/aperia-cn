@@ -1528,7 +1528,7 @@ ch01_01_00_h00.akb
 ap_a2453.ogg
 ap_a2453.vo
 艾佩理雅
-「Positive. 但是……Ｎｅｇａｔｉｖｅ。
+「Positive. 但是……Negative.
 　并未收到『ＯＫ』字符串……」
 零一
 「这样啊。」

@@ -496,7 +496,7 @@ ap_z0524.ogg
 ap_z0525.ogg
 零一
 「
-ａｌｌａ　ｔｅｄｅｓｋａ
+　
 德国风地。」
 /Config/SceneSkip
 seg_029h.ogg

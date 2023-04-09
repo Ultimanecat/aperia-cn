@@ -2861,8 +2861,8 @@ ch07_01_00.akb
 ch07_01_00.akb
 ap_g0059.ogg
 Bookman
-『Alpha, Bravo, Charlie,
-　Ｄｅｌｔａ队的束缚，均已解开。』
+『Alpha, Bravo, Charlie, Delta,
+　各队的束缚，均已解开。』
 ap_f0632.ogg
 Thinker
 「好。下一步，冲进教堂，

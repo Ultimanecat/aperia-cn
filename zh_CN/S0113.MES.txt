@@ -149,7 +149,7 @@ ap_a1053.ogg
 「收到。开始启动ＤＮＡ模拟器。」
 ap_a1054.ogg
 艾佩理雅
-「Positive. 
+「Positive.
 　身体构筑已完成。」
 fo
 fo
@@ -1291,7 +1291,7 @@ ap_a1139.ogg
 ap_a1140.ogg
 ap_a1140.vo
 艾佩理雅
-「收到。设定已发送……Positive. 
+「收到。设定已发送……Positive.
 　登录奖励设定已完成。」
 零一
 「那再来一条。

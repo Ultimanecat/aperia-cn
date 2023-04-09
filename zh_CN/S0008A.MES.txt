@@ -3538,7 +3538,7 @@ ch01_03_01.akb
 ch01_01_00_h00.akb
 ap_a0599.ogg
 艾佩理雅
-「发动心愿。Positive. 
+「发动心愿。Positive.
 　开始执行命令。」
 /Config/SceneSkip
 seg_031e.ogg

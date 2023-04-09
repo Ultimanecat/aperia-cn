@@ -2765,8 +2765,8 @@ ap_z0511.ogg
 ap_z0512.ogg
 零一
 「
-ｔｅｒｚｏ
-１６／８——」
+　
+16/8（terzo）——」
 /Config/SceneSkip
 seg_029m.ogg
 ev1219.akb

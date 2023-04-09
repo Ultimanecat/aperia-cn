@@ -856,7 +856,7 @@ ch06_01_00.akb
 ch06_01_00.akb
 ap_f0893.ogg
 Thinker
-「ἐλπίς」
+「ἐλπίς.」
 　
 　
 /Config/SceneSkip
@@ -1048,7 +1048,7 @@ ch06_01_00.akb
 ch06_01_00.akb
 ap_f0906.ogg
 Thinker
-「ἐλπίς。」
+「ἐλπίς.」
 　
 　
 /Config/SceneSkip

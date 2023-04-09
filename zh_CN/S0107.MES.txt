@@ -2269,7 +2269,7 @@ ch10_01_00.akb
 ch10_01_00_h02.akb
 ap_k0069.ogg
 七海
-「好！Weight！」
+「好！Weight!」
 ev2502.akb
 ev2502.akb
 /Config/SceneSkip
@@ -2418,7 +2418,7 @@ ch10_01_00_h01.akb
 ap_k0081.ogg
 七海
 「对不起。那只能也把你的左手废掉了。
-　Weight。」
+　Weight.」
 /Config/SceneSkip
 seg_057a.ogg
 /Config/Movie/Play
@@ -3284,7 +3284,7 @@ ch10_01_00.akb
 ch10_01_00_h04.akb
 ap_k0100.ogg
 七海
-「对不起，Weight！！」
+「对不起，Weight!!」
 /Config/SceneSkip
 seg_057a.ogg
 /Config/Movie/Play

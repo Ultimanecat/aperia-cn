@@ -1873,7 +1873,7 @@ ap_z0417.ogg
 零一
 「
 　
-１６／８（ｔｅｒｚｏ）——」
+16/8（terzo）——」
 /Config/SceneSkip
 seg_029m.ogg
 ev1219.akb
@@ -1882,7 +1882,7 @@ ap_z0418.ogg
 零一
 「
 ａｔｔｏ
-勃起（ａｔｔｏ）！！」
+勃起（atto）！！」
 ch07_01_00.akb
 ch07_01_00_h01.akb
 ch07_01_00.akb

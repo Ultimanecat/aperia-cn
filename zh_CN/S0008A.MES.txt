@@ -3664,7 +3664,7 @@ ch02_04_00.akb
 ch02_01_00_h00.akb
 ap_b1033.ogg
 三羽
-「Ｇｕａｎｉｎｅ。」
+「Guanine.」
 /Config/SceneSkip
 seg_033.ogg
 ev1000_c00.akb
@@ -3673,7 +3673,7 @@ ev1000c.akb
 ev1000c.akb
 ev1000c.akb
 ap_s13_000.ogg
-Ｇｕａｎｉｎｅ
+Guanine
 「呀吼～。」
 ch02_04_00.akb
 ch02_01_00_h00.akb
@@ -3696,7 +3696,7 @@ ap_r16_000.ogg
 　通过四个精灵的祝福，
 　可以实现各种各样的效果。
 ap_s13_001.ogg
-Ｇｕａｎｉｎｅ
+Guanine
 「哎嘿嘿，终于到了我出场啦～。」
 ap_r21_001.ogg
 Thymine
@@ -3717,7 +3717,7 @@ ap_b1035.ogg
 「哎……等、等一下，
 　为什么你们还会自己说话啊？」
 ap_s13_002.ogg
-Ｇｕａｎｉｎｅ
+Guanine
 「哎～，没有为什么啊，
 　我们想说就说啦～。」
 ap_r16_002.ogg
@@ -3762,7 +3762,7 @@ ap_r21_002.ogg
 Thymine
 「好好。」
 ap_s13_003.ogg
-Ｇｕａｎｉｎｅ
+Guanine
 　
 「回复弹（Ｃｕｒｅ　Ｂｕｌｌｅｔ），来咯！」
 /Config/SceneSkip

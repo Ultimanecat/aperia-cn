@@ -177,7 +177,7 @@ ap_a1566.ogg
 ap_a1567.ogg
 艾佩理雅
 「克隆受精卵制造完毕。
-　着床于人造子宫中。Positive. 」
+　着床于人造子宫中。Positive.」
 ap_a1568.ogg
 艾佩理雅
 「成长程序设定为等同于１１岁程度。
@@ -506,7 +506,7 @@ ap_b3021.ogg
 　
 ap_a1588.ogg
 艾佩理雅
-「Positive. 
+「Positive.
 　三羽也会抱我吗？」
 ch02_02_01.akb
 ch02_01_00_h06.akb
@@ -924,7 +924,7 @@ ap_a1611.ogg
 艾佩理雅
 「是最终确认吗？」
 零一
-「是，Positive. 」
+「是，Positive.」
 ch01_01_00_h02.akb
 ch01_01_00_h02.akb
 ap_a1612.ogg

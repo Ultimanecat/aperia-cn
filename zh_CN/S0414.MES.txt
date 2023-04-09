@@ -282,7 +282,7 @@ ev1000a.akb
 ev1000a.akb
 ev1000a.akb
 ap_r26_007.ogg
-Ａｄｅｎｉｎｅ
+Adenine
 「在。」
 ch02_04_00.akb
 ch02_01_00_h11.akb
@@ -290,7 +290,7 @@ ch02_04_00.akb
 ch02_01_00_h11.akb
 ap_b3993.ogg
 三羽
-「Ｔｈｙｍｉｎｅ。」
+「Thymine.」
 /Config/SceneSkip
 seg_033.ogg
 ev1000_a00.akb
@@ -299,7 +299,7 @@ ev1000b.akb
 ev1000b.akb
 ev1000b.akb
 ap_r21_005.ogg
-Ｔｈｙｍｉｎｅ
+Thymine
 「来了。」
 ch02_04_00.akb
 ch02_01_00_h11.akb
@@ -344,7 +344,7 @@ ap_b3996.ogg
 「改写中心法则，
 　代码：红！」
 ap_r26_008.ogg
-Ａｄｅｎｉｎｅ
+Adenine
 「到老夫出场了。」
 ap_s13_012.ogg
 Ｇｕａｎｉｎｅ

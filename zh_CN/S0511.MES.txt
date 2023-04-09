@@ -3738,7 +3738,7 @@ ap_f1325.ogg
 Thinker
 「
 　
-ἐλπίς..」
+ἐλπίς.」
 /Config/SceneSkip
 seg_039p.ogg
 ev1702_h02.akb

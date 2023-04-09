@@ -823,14 +823,14 @@ ev0906.akb
 ev0906.akb
 ap_c3006.ogg
 真白
-「双剑５０连击，３７８００円！！」
+「双剑50连击，37800円！！」
 /Config/SceneSkip
 seg_032n.ogg
 ev0904.akb
 ev0904.akb
 ap_c3007.ogg
 真白
-「两仪闪电剑，双剑５０连击——」
+「两仪闪电剑，双剑50连击——」
 　
 /Config/SceneSkip
 seg_032k.ogg

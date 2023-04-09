@@ -1895,7 +1895,7 @@ ap_z0219.ogg
 ｓｔａｃｃａｔｏ
 　
 　
-散落吧——」
+风流云散——」
 ev1221_h01.akb
 ev1221_h01.akb
 /Config/SceneSkip
@@ -2382,7 +2382,7 @@ ap_z0244.ogg
 ｓｔａｃｃａｔｏ
 　
 　
-散落吧——」
+风流云散——」
 /Config/SceneSkip
 seg_029c.ogg
 ev1221.akb
@@ -3564,7 +3564,7 @@ ap_z0303.ogg
 ｓｔａｃｃａｔｏ
 　
 　
-散落吧——」
+风流云散——」
 /Config/SceneSkip
 seg_029c.ogg
 ev1224.akb

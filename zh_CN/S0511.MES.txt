@@ -3159,7 +3159,7 @@ ap_f1293.ogg
 Thinker
 「
 　　　　箱
-Ｐｙｘｉｓ」
+Pyxis.」
 /Config/SceneSkip
 seg_039k.ogg
 ap_f1294.ogg
@@ -3642,7 +3642,7 @@ ap_f1323.ogg
 Thinker
 「
 　　　　箱
-Ｐｙｘｉｓ」
+Pyxis.」
 /Config/SceneSkip
 seg_039k.ogg
 ev9933.akb
@@ -5048,7 +5048,7 @@ ap_f1396.ogg
 Thinker
 「
 　　　　箱
-Ｐｙｘｉｓ」
+Pyxis.」
 /Config/SceneSkip
 seg_039k.ogg
 ap_f1397.ogg
@@ -5134,7 +5134,7 @@ ap_f1401.ogg
 Thinker
 「
 　　　　箱
-Ｐｙｘｉｓ」
+Pyxis.」
 /Config/SceneSkip
 seg_039k.ogg
 ap_f1402.ogg

@@ -4977,8 +4977,8 @@ ev9920.akb
 ap_z0352.ogg
 零一
 「
-ｔｅｍｐｅｓｔｏｓｏ
-神速八段突刺！！」
+　
+神速八段突刺（tempestoso）！！」
 /Config/SceneSkip
 seg_061.ogg
 bcg98.akb

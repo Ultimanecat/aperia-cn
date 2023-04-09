@@ -4356,7 +4356,7 @@ ch01_03_01.akb
 ch01_01_00_h00.akb
 ap_a0605.ogg
 艾佩理雅
-「收到。发动心愿。Positive. 
+「收到。发动心愿。Positive.
 　开始执行命令——烧毁万龙之母。」
 ev0702.akb
 ev0702.akb
@@ -4866,7 +4866,7 @@ ch01_03_01.akb
 ch01_01_00_h00.akb
 ap_a0609.ogg
 艾佩理雅
-「收到。发动心愿。Positive. 
+「收到。发动心愿。Positive.
 　开始测算空气含量，并分析战况。」
 /Config/SceneSkip
 seg_031d.ogg
@@ -4989,7 +4989,7 @@ ch01_03_01.akb
 ch01_01_00_h00.akb
 ap_a0613.ogg
 艾佩理雅
-「收到。发动心愿。Positive. 
+「收到。发动心愿。Positive.
 　开始执行命令——烧毁万龙之母。」
 ev1000_h01.akb
 ev1000_h01.akb

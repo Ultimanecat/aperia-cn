@@ -497,7 +497,7 @@ ap_z0525.ogg
 零一
 「
 　
-德国风地。」
+德国风地（alla tedeska）。」
 /Config/SceneSkip
 seg_029h.ogg
 /Config/Movie/Play
@@ -512,7 +512,7 @@ ap_z0526.ogg
 ap_z0527.ogg
 零一
 「
-ｓｔａｃｃａｔｏ
+　
 　
 　
 风流云散——」
@@ -719,7 +719,7 @@ ev1221_h01.akb
 ap_z0532.ogg
 零一
 「
-ｓｔａｃｃａｔｏ
+　
 　
 　
 风流云散——」

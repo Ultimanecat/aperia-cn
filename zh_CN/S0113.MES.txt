@@ -1304,7 +1304,7 @@ ch01_01_00_h00.akb
 ap_a1141.ogg
 ap_a1141.vo
 艾佩理雅
-「收到。设定已发送……Positive. 
+「收到。设定已发送……Positive.
 　好友罗盘设定已完成。」
 　我看了看，智能机的ＡＰＰ中，
 　确实多了一个好友罗盘。
@@ -2177,7 +2177,7 @@ ch01_01_00_ho01.akb
 ch01_01_00_ho01.akb
 ap_a1196.ogg
 艾佩理雅
-「……Positive. 
+「……Positive.
 　思考程序越是运作，
 　就感觉越害羞……」
 零一
@@ -3476,7 +3476,7 @@ ch01_02_00.akb
 ch01_01_00_h00.akb
 ap_a1358.ogg
 艾佩理雅
-「收到。发动心愿。Positive. 
+「收到。发动心愿。Positive.
 　开始解读强制任务的提示。」
 /Config/SceneSkip
 seg_031d.ogg

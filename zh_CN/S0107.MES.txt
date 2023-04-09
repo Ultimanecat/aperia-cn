@@ -1867,9 +1867,9 @@ ap_z0216.ogg
 ap_z0217.ogg
 零一
 「
-ａｌｌａ
 　
-Ｚｉｎｇａｒａ
+　
+　
 吉卜赛风地。」
 /Config/SceneSkip
 seg_029h.ogg

@@ -665,7 +665,7 @@ ap_e0177.ogg
 　
 　
 A (Adenine), T (Thymine),
-　组合而成的。
+　G (Guanine), C (Cytosine)这四种碱基组合而成的。
 　通俗易懂地说，就是用Ａ，Ｔ，Ｇ，Ｃ，
 　这４种文字来撰写出一幅设计图。
 ap_e0178.ogg

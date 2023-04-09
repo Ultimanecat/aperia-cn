@@ -313,7 +313,7 @@ ap_a1853.ogg
 　
 ap_a1854.ogg
 艾佩理雅
-「Positive. 
+「Positive.
 　已安全突破安保系统。」
 ap_a1855.ogg
 艾佩理雅
@@ -332,7 +332,7 @@ ch01_01_00_h00.akb
 ch01_01_00_h00.akb
 ap_a1856.ogg
 艾佩理雅
-「Positive. 
+「Positive.
 　全部系统已在艾佩理雅管理下。」
 ch03_01_00_h01.akb
 ch03_01_00_h01.akb
@@ -885,7 +885,7 @@ ap_a1878.ogg
 　连接上ＤＮＡ计算机。
 ap_a1879.ogg
 艾佩理雅
-「开始设置。Positive. 
+「开始设置。Positive.
 　监控摄像头的设置已完成。
 　已经和Owner的智能机同步了。」
 fo

@@ -36,7 +36,7 @@ ch01_01_00_h00.akb
 ch01_01_00_h00.akb
 ap_a2839.ogg
 艾佩理雅
-「Positive. 」
+「Positive.」
 零一
 「外面现在怎么样？」
 ch01_01_00.akb
@@ -762,7 +762,7 @@ ch01_01_00_ho01.akb
 ch01_01_00_ho01.akb
 ap_a2903.ogg
 艾佩理雅
-「Positive. 
+「Positive.
 　艾佩理雅认为这样就好。」
 零一
 「好。」

@@ -198,7 +198,7 @@ ch01_01_00_h00.akb
 ch01_01_00_h00.akb
 ap_a0366.ogg
 艾佩理雅
-「Positive. 」
+「Positive.」
 ch04_02_00.akb
 ch04_02_00.akb
 ch04_01_00_h10.akb
@@ -559,7 +559,7 @@ ch01_01_00_h00.akb
 ch01_01_00_h00.akb
 ap_a0387.ogg
 艾佩理雅
-「Positive. 」
+「Positive.」
 ch02_02_01.akb
 ch02_02_01.akb
 ch02_01_00_h00.akb
@@ -796,7 +796,7 @@ ch01_01_00_h00.akb
 ch01_01_00_h00.akb
 ap_a0402.ogg
 艾佩理雅
-「Positive. 」
+「Positive.」
 ch01_01_00.akb
 ch01_01_00.akb
 ch01_01_00_h00.akb
@@ -1459,7 +1459,7 @@ ch01_01_00_h00.akb
 ch01_01_00_h00.akb
 ap_a0425.ogg
 艾佩理雅
-「Positive. 」
+「Positive.」
 ch01_01_00.akb
 ch01_01_00.akb
 ch01_01_00_h00.akb

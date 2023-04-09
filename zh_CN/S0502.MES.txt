@@ -101,7 +101,7 @@ ch01_01_00_h00.akb
 ch01_01_00_h00.akb
 ap_a2383.ogg
 艾佩理雅
-「Positive. 
+「Positive.
 　邮件已正常发送。」
 零一
 「能帮我注意一下，
@@ -1460,7 +1460,7 @@ ch01_01_00_h00.akb
 ap_a2448.ogg
 艾佩理雅
 「正在访问艾佩理雅网络。
-　Positive. 
+　Positive.
 　正在确认能否设定穿越条件。」
 ch01_01_01.akb
 ch01_01_00_h06.akb

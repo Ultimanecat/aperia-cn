@@ -706,7 +706,7 @@ ch01_01_00_h06.akb
 ch01_01_00_h06.akb
 ap_a2753.ogg
 艾佩理雅
-「——Negative. 
+「——Negative.
 　电源供给率降至２％。无法维持
 　照明以外的系统……」
 /Config/SceneSkip

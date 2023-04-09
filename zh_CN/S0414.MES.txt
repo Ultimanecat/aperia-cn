@@ -316,7 +316,7 @@ ev1000c.akb
 ev1000c.akb
 ev1000c.akb
 ap_s13_011.ogg
-Ｇｕａｎｉｎｅ
+Guanine
 「呀吼～。」
 ch02_04_00.akb
 ch02_01_00_h11.akb
@@ -324,7 +324,7 @@ ch02_04_00.akb
 ch02_01_00_h11.akb
 ap_b3995.ogg
 三羽
-「Ｃｙｔｏｓｉｎｅ。」
+「Cytosine.」
 /Config/SceneSkip
 seg_033.ogg
 ev1000_b00.akb
@@ -347,7 +347,7 @@ ap_r26_008.ogg
 Adenine
 「到老夫出场了。」
 ap_s13_012.ogg
-Ｇｕａｎｉｎｅ
+Guanine
 　
 「光线弹，发射——！」
 /Config/SceneSkip

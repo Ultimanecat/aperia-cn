@@ -4055,7 +4055,7 @@ seg_039m.ogg
 ap_f0523.ogg
 ？？？
 「
-　　　　箱
+　
 Pyxis.」
 　这个声音，难道说……？
 bcg19e.akb
@@ -4848,7 +4848,7 @@ ch06_01_00.akb
 ap_f0550.ogg
 Thinker
 「Pyxis.」
-　　　　箱
+　
 　
 　沙罗现在的位置，
 　是他那个范围的内侧——

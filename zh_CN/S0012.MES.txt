@@ -3347,7 +3347,7 @@ ap_z0100.ogg
 　
 　
 　
-风流云散——」
+风流云散（staccato）——」
 /Config/SceneSkip
 seg_029c.ogg
 /Config/Movie/Play
@@ -3359,7 +3359,7 @@ ev1221.akb
 ap_z0101.ogg
 零一
 「
-ｔｅｍｐｅｓｔｏｓｏ
+　
 神速八段突刺！！」
 ev1221.akb
 ev1221.akb

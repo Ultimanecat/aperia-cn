@@ -1293,7 +1293,7 @@ ap_z0626.ogg
 ap_z0627.ogg
 零一
 「
-ａｌｌａ　ｃａｃｃｉａ
+　
 猎歌风地——」
 /Config/SceneSkip
 seg_029h.ogg

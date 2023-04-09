@@ -58,7 +58,7 @@ ch01_01_00_h10.akb
 ch01_01_00_h10.akb
 ap_a2378.ogg
 艾佩理雅
-「Positive. 
+「Positive.
 　已安全解除安保系统。」
 ch01_01_00.akb
 ch01_01_00.akb
@@ -1724,7 +1724,7 @@ ap_a2464.ogg
 ap_a2464.vo
 艾佩理雅
 「收到。访问艾佩理雅网络。
-　Positive. 开始搜寻Ｔｈｉｎｋｅｒ系统。」
+　Positive. 开始搜寻Thinker系统。」
 　
 ch01_01_01.akb
 ch01_01_01.akb

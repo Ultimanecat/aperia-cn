@@ -701,7 +701,7 @@ ch01_01_02.akb
 ch01_01_00_h00.akb
 ap_a0643.ogg
 艾佩理雅
-「Positive. 」
+「Positive.」
 ch04_02_01.akb
 ch04_01_00_h05.akb
 ch04_02_01.akb

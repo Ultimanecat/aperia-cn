@@ -3630,7 +3630,7 @@ ch02_04_00.akb
 ch02_01_00_h00.akb
 ap_b1031.ogg
 三羽
-「Ａｄｅｎｉｎｅ。」
+「Adenine.」
 /Config/SceneSkip
 seg_033.ogg
 ev1000_d00.akb
@@ -3639,7 +3639,7 @@ ev1000a.akb
 ev1000a.akb
 ev1000a.akb
 ap_r26_000.ogg
-Ａｄｅｎｉｎｅ
+Adenine
 「在。」
 ch02_04_00.akb
 ch02_01_00_h00.akb
@@ -3705,7 +3705,7 @@ ap_r16_001.ogg
 Ｃｙｔｏｓｉｎｅ
 「我倒是懒得动弹。」
 ap_r26_001.ogg
-Ａｄｅｎｉｎｅ
+Adenine
 「好了好了，你们认真点干活吧。」
 　
 ch02_04_00.akb
@@ -3734,7 +3734,7 @@ ap_b1036.ogg
 　你们可是我的精灵，不许擅自行动。」
 　
 ap_r26_002.ogg
-Ａｄｅｎｉｎｅ
+Adenine
 「就算你这么说，
 　我们就是会说话啊。」
 ch02_04_00.akb

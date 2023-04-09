@@ -228,7 +228,7 @@ ch01_01_00_h00.akb
 ch01_01_00_h00.akb
 ap_a0368.ogg
 艾佩理雅
-「Positive. 」
+「Positive.」
 零一
 「但你登录单元又是怎么制造的啊？」
 ch01_01_00.akb
@@ -762,7 +762,7 @@ ch01_01_00_h00.akb
 ch01_01_00_h00.akb
 ap_a0400.ogg
 艾佩理雅
-「Positive. 」
+「Positive.」
 ch01_01_00.akb
 ch01_01_00.akb
 ch01_01_00_h00.akb

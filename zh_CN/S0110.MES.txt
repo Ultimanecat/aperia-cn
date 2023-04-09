@@ -1274,7 +1274,7 @@ Thinker
 ev9916_h01.akb
 ev9916_h01.akb
 零一
-「ＮＯ。」
+「No.」
 ev9915_h01.akb
 ev9915_h01.akb
 ap_f0407.ogg
@@ -1382,7 +1382,7 @@ ev9915_h01.akb
 ev9915_h01.akb
 ap_f0409.ogg
 Thinker
-「ＮＯ。」
+「No.」
 ev9916_h01.akb
 ev9916_h01.akb
 零一
@@ -1417,7 +1417,7 @@ Thinker
 ev9916_h01.akb
 ev9916_h01.akb
 零一
-「ＮＯ。」
+「No.」
 　好了，你会怎么做呢？
 　如果质疑失败，这就是第三次了。
 　会给我一次自由提问的机会。
@@ -1994,7 +1994,7 @@ Thinker
 ev9916_h01.akb
 ev9916_h01.akb
 零一
-「ＮＯ。」
+「No.」
 ev9915_h01.akb
 ev9915_h01.akb
 ap_f0428.ogg
@@ -2041,7 +2041,7 @@ ev9915_h01.akb
 ev9915_h01.akb
 ap_f0430.ogg
 Thinker
-「ＮＯ。」
+「No.」
 　显然，事情不会那么顺利。
 　
 ev9916_h01.akb
@@ -3275,7 +3275,7 @@ ev9915_h01.akb
 ev9915_h01.akb
 ap_f0512.ogg
 Thinker
-「ＮＯ。」
+「No.」
 /Config/SceneSkip
 seg_040c.ogg
 fo

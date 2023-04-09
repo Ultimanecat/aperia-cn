@@ -3040,7 +3040,7 @@ ap_z0713.ogg
 零一
 「
 　
-１６／８——」
+１６／８（terzo）——」
 /Config/SceneSkip
 seg_029m.ogg
 ev1219.akb

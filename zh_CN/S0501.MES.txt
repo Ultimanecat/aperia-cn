@@ -1255,7 +1255,7 @@ AI
 「
 　
 　
-Ｔｈｉｎｋｅｒ　ｓｙｓｔｅｍ……」
+Thinker system……」
 ch05_01_00.akb
 ch05_01_00_h00.akb
 ch05_01_00_me01.akb

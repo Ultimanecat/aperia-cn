@@ -1878,7 +1878,7 @@ ch03_04_00.akb
 ch03_01_00_h06.akb
 ap_c3143.ogg
 真白
-「２１连击１５８７６円。」
+「21连击15876円。」
 /Config/SceneSkip
 seg_032.ogg
 /Config/Movie/Play

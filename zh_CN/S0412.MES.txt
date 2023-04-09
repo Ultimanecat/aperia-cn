@@ -143,7 +143,7 @@ ch02_04_00.akb
 ch02_01_00_h00.akb
 ap_b3913.ogg
 三羽
-「Ｔｈｙｍｉｎｅ。」
+「Thymine.」
 /Config/SceneSkip
 seg_033.ogg
 ev1000_a00.akb
@@ -152,7 +152,7 @@ ev1000b.akb
 ev1000b.akb
 ev1000b.akb
 ap_r21_004.ogg
-Ｔｈｙｍｉｎｅ
+Thymine
 「来了。」
 ch02_04_00.akb
 ch02_01_00_h00.akb
@@ -160,7 +160,7 @@ ch02_04_00.akb
 ch02_01_00_h00.akb
 ap_b3914.ogg
 三羽
-「Ｇｕａｎｉｎｅ。」
+「Guanine.」
 /Config/SceneSkip
 seg_033.ogg
 ev1000_c00.akb
@@ -169,7 +169,7 @@ ev1000c.akb
 ev1000c.akb
 ev1000c.akb
 ap_s13_007.ogg
-Ｇｕａｎｉｎｅ
+Guanine
 「呀吼～。」
 ch02_04_00.akb
 ch02_01_00_h00.akb
@@ -216,7 +216,7 @@ ev1006.akb
 ev1006.mov
 ev1006.akb
 ap_s13_008.ogg
-Ｇｕａｎｉｎｅ
+Guanine
 「来了～
 Ｗａｔｅｒ　Ｂｕｌｌｅｔ
 。水球弹，是水水哦～！」
@@ -227,7 +227,7 @@ seg_033e.ogg
 ev1000d.akb
 ev1000d.akb
 ap_s13_009.ogg
-Ｇｕａｎｉｎｅ
+Guanine
 「呀哈哈，空气没了呢。
 　没问题吗？」
 ch02_04_00.akb
@@ -251,7 +251,7 @@ ev1004.akb
 ev1004.mov
 ev1004.akb
 ap_s13_010.ogg
-Ｇｕａｎｉｎｅ
+Guanine
 　Ｌａｓｅｒ　Ｂｕｌｌｅｔ
 「光线弹，大爆射！」
 ev1004.akb

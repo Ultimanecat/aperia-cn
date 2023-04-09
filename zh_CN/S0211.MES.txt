@@ -594,7 +594,7 @@ fi
 fi
 fi
 wi
-　正门处是Bookman和众Ｓｃｈｏｌａｒ。
+　正门处是Bookman和众Scholar。
 　后门处是沙罗、七海及其他骑士团员。
 　世界树上空是真白。
 　米德加尔德湖中到处都是的，
@@ -1220,7 +1220,7 @@ wi
 　发送给Bookman和七海。
 零一
 「骑士团对付研究所附近的病毒，
-　Bookman和Ｓｃｈｏｌａｒ
+　Bookman和Scholar
 　去东南方向。」
 ch10_01_00.akb
 ch10_01_00.akb

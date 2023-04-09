@@ -1820,8 +1820,8 @@ ap_z0211.ogg
 ap_z0212.ogg
 零一
 「
-ｐｒｉｍｏ
-初始之——」
+　
+初始之（primo）——」
 /Config/SceneSkip
 seg_029g.ogg
 ev1209.akb

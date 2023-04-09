@@ -2597,7 +2597,7 @@ Bookman
 　
 ap_a2216.ogg
 艾佩理雅
-「谈判是ｎｅｇａｔｉｖｅ的。
+「谈判是negative的。
 　Bookman的目的，
 　违背了Owner的愿望。」
 　艾佩理雅蹲下来，
@@ -3401,7 +3401,7 @@ ch01_01_00_h10.akb
 ap_a2231.ogg
 艾佩理雅
 「Bookman，等于，空观，
-　是ｎｅｇａｔｉｖｅ的。」
+　是negative的。」
 ch04_03_00.akb
 ch04_01_00_h07.akb
 ch04_03_00.akb
@@ -3561,7 +3561,7 @@ ch01_01_00_h10.akb
 ap_a2238.ogg
 艾佩理雅
 「Bookman，等于，空观，
-　已经证明是ｎｅｇａｔｉｖｅ的。
+　已经证明是negative的。
 　为什么你还要继续战斗？」
 ap_e0354.ogg
 Bookman

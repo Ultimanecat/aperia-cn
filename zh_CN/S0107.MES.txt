@@ -3438,7 +3438,7 @@ ap_z0291.ogg
 ap_z0292.ogg
 零一
 「
-　ｓｅｃｏｎｄｏ
+　
 ８／８——」
 /Config/SceneSkip
 seg_029m.ogg

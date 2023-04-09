@@ -4324,7 +4324,7 @@ ch01_01_00_h00.akb
 ch01_01_00_h00.akb
 ap_a0509.ogg
 艾佩理雅
-「Positive. 」
+「Positive.」
 ch01_01_00.akb
 ch01_01_00.akb
 ch01_01_00_h00.akb
@@ -5311,7 +5311,7 @@ ch01_01_00_h05.akb
 ch01_01_00_h05.akb
 ap_a0526.ogg
 艾佩理雅
-「Positive. 
+「Positive.
 　还是说，Owner已经挑好了？」
 零一
 「啊——这个……」

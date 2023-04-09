@@ -28,7 +28,7 @@ ch01_01_00_h00.akb
 ch01_01_00_h00.akb
 ap_a1885.ogg
 艾佩理雅
-「Positive。
+「Positive.
 　早上好，真白。
 　找艾佩理雅有什么事吗？」
 ch03_01_00_h03.akb
@@ -213,7 +213,7 @@ ch01_01_00_h00.akb
 ch01_01_00_h00.akb
 ap_a1901.ogg
 艾佩理雅
-「Ｐｏｓｉｔｉｖｅ。
+「Positive.
 　这是Owner提出的假说。」
 ap_c1684.ogg
 真白

@@ -3513,8 +3513,8 @@ ev1222.akb
 ap_z0334.ogg
 零一
 「
-ｔｅｍｐｅｓｔｏｓｏ
-神速八段突刺！！」
+　
+神速八段突刺（tempestoso）！！」
 ev1222.akb
 ev1222.akb
 ev1700.akb

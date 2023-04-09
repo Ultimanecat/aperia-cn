@@ -3476,11 +3476,11 @@ ap_z0330.ogg
 零一
 「
 　
-情感丰富，」
+情感丰富（espressivo），」
 ap_z0331.ogg
 零一
 「
-ａｌｌａ　ｃａｃｃｉａ
+　
 猎歌风地——」
 /Config/SceneSkip
 seg_029h.ogg

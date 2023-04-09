@@ -2646,7 +2646,7 @@ ap_f0617.ogg
 Thinker
 「
 　　　　箱
-Ｐｙｘｉｓ」
+Pyxis.」
 /Config/SceneSkip
 seg_039k.ogg
 ap_f0618.ogg

@@ -5171,7 +5171,7 @@ ap_f1403.ogg
 Thinker
 「……什……么…………？！」
 　自圣域神殿发射的
-　Ｌａｓｅｒ　Ｂｕｌｌｅｔ
+　
 　光线弹精准落在Thinker身上。
 /Config/SceneSkip
 seg_050b.ogg

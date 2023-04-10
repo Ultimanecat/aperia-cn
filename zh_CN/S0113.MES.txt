@@ -4645,7 +4645,7 @@ ch06_01_00.akb
 ch06_01_00.akb
 ap_f0546.ogg
 Thinker
-「０。太遗憾了，时间到。」
+「0. 太遗憾了，时间到。」
 /Config/SceneSkip
 seg_026b.ogg
 attack_10_00.akb

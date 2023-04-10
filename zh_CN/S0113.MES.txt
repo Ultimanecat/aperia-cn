@@ -41,7 +41,7 @@ wi
 　
 　还剩3秒。
 　2，
-　１，
+　1，
 /Config/SceneSkip
 seg_010a.ogg
 bcg02c.akb

@@ -219,7 +219,7 @@ ap_s13_008.ogg
 Guanine
 「来了～。
 　
-。水球弹，是水水哦～！」
+水球弹（Water Bullet），是水水哦～！」
 ev1006_h01.akb
 ev1006_h01.akb
 /Config/SceneSkip

@@ -940,7 +940,7 @@ seg_070c.ogg
 ap_f0780.ogg
 Thinker
 「那就这么做吧。
-　Ｄｒａｗ　ｏｎｅ，零一。」
+　Draw one，零一。」
 /Config/SceneSkip
 seg_070c.ogg
 　这样一来，我的手牌就变成了
@@ -1379,7 +1379,7 @@ ch02_01_00_h00.akb
 ap_b3935.ogg
 三羽
 『好的。
-　Ｄｒａｗ　ｏｎｅ，零一。」
+　Draw one，零一。」
 /Config/SceneSkip
 seg_070c.ogg
 零一
@@ -1399,7 +1399,7 @@ ap_b3936.ogg
 　硬要说的话，也就第一张了吧。
 零一
 「我拿走常温牌了啊。
-　Ｄｒａｗ　ｏｎｅ，三羽。」
+　Draw one，三羽。」
 /Config/SceneSkip
 seg_070b.ogg
 　我抓起常温牌。

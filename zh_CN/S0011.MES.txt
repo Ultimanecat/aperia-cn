@@ -41,7 +41,7 @@ ap_d0541.ogg
 /Config/SceneSkip
 seg_013a.ogg
 　邮件很快就又一次到了。
-　距离上一封邮件只过了１０秒钟，
+　距离上一封邮件只过了10秒钟，
 　但在Second里已经过了一个小时了。
 　
 ap_a0765.ogg

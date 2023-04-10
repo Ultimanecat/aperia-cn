@@ -4557,7 +4557,7 @@ Thinker
 　听清楚了吗？」
 ap_f0541.ogg
 Thinker
-「５。」
+「5.」
 ap_f0542.ogg
 Thinker
 「４。」

@@ -2160,7 +2160,7 @@ ch01_02_02.akb
 ch01_01_00_h10.akb
 ap_a2211.ogg
 艾佩理雅
-「Ｅｓｐｌｏｓｉｏｎｅ！」
+「Esplosione!」
 /Config/SceneSkip
 seg_031b.ogg
 ch07_01_00.akb
@@ -2291,7 +2291,7 @@ ap_z0667.ogg
 「哈啊！！」
 /Config/SceneSkip
 seg_028c.ogg
-　瞄准被Ｅｓｐｌｏｓｉｏｎｅ烧脆的
+　瞄准被Esplosione烧脆的
 　Bookman的左胸部，
 　我挥下凪一文字。
 　有什么东西被破坏掉的手感

@@ -1052,12 +1052,12 @@ ch03_01_00_h00.akb
 ch03_01_00_h00.akb
 ap_c2740.ogg
 真白
-「用ｇｕｅｓｔ账户登一下试试？」
+「用guest账户登一下试试？」
 /Config/SceneSkip
 seg_073.ogg
 ev0305_02.akb
 ev0305_02.akb
-　用户名输入ｇｕｅｓｔ，
+　用户名输入guest，
 　密码不输入。
 /Config/SceneSkip
 seg_073a.ogg

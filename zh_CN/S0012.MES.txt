@@ -2226,7 +2226,7 @@ ap_b1357.ogg
 「哥哥！」
 /Config/SceneSkip
 seg_033c.ogg
-　三羽向我射来回复弹（Cｕｒｅ　Ｂｕｌｌｅｔ），
+　三羽向我射来回复弹（Cure Bullet），
 　
 　
 　血条被回满了。

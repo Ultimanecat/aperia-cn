@@ -688,7 +688,7 @@ Thinker
 　卷回时间。」
 ap_f0350.ogg
 Thinker
-「喔。阿尔法１，中止行动。
+「喔。阿尔法1，中止行动。
 　原地待命。」
 ap_f0351.ogg
 Thinker

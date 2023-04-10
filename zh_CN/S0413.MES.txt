@@ -160,7 +160,7 @@ ch09_01_00_h02.akb
 ap_h0586.ogg
 沙罗
 「【常温牌】我拿走了。
-　Ｄｒａｗ　ｔｗｏ，零一。」
+　Draw two，零一。」
 /Config/SceneSkip
 seg_070c.ogg
 零一
@@ -1231,7 +1231,7 @@ ch07_01_00_h01.akb
 　我迅速摆出防御架势，然而——
 ap_g0133.ogg
 Bookman
-「Ｄｒａｗ　ｏｎｅ，零一。」
+「Draw one，零一。」
 　什么……？
 /Config/SceneSkip
 seg_070c.ogg

@@ -40,8 +40,8 @@ wi
 　变成艾佩理雅网络是一个原理。
 　
 　还剩3秒。
-　2，
-　1，
+　2,
+　1,
 /Config/SceneSkip
 seg_010a.ogg
 bcg02c.akb

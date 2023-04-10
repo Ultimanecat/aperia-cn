@@ -5882,7 +5882,7 @@ t01_001a.ogg
 seg_029b.ogg
 /Config/SceneSkip
 t01_002a.ogg
-　不，下个瞬间剑光就超过了３００道，
+　不，下个瞬间剑光就超过了300道，
 　接着立刻是500道。
 /Config/SceneSkip
 seg_029b.ogg

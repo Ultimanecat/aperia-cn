@@ -851,7 +851,7 @@ Cytosine
 「好耶！」
 ap_s13_006.ogg
 Guanine
-「准备道具强化（Ｓｔｒｅｎｇｔｈｅｎ）啰！」
+「准备道具强化（Strengthen）啰！」
 　
 　
 /Config/SceneSkip

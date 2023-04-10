@@ -1444,7 +1444,7 @@ ch03_04_00.akb
 ch03_01_00_h06.akb
 ap_c3139.ogg
 真白
-「大烟幕99个，１１８８００円！」
+「大烟幕99个，118800円！」
 /Config/SceneSkip
 seg_040e.ogg
 /Config/SceneSkip

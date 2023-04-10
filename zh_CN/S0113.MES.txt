@@ -4560,10 +4560,10 @@ Thinker
 「5.」
 ap_f0542.ogg
 Thinker
-「４。」
+「4.」
 ap_f0543.ogg
 Thinker
-「３。」
+「3.」
 ch01_02_00.akb
 ch01_01_00_h00.akb
 ch01_02_00.akb

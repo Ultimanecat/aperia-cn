@@ -3585,7 +3585,7 @@ ch01_03_01.akb
 ch01_01_00_h00.akb
 ap_a0602.ogg
 艾佩理雅
-「Ｅｓｐｌｏｓｉｏｎｅ！」
+「Esplosione!」
 　一发宛如红莲般的火球，
 　拖着长长的焰尾打中目标，
 　引起了剧烈的爆炸。
@@ -4375,7 +4375,7 @@ ch01_03_01.akb
 ch01_01_00_h00.akb
 ap_a0607.ogg
 艾佩理雅
-「Ｅｓｐｌｏｓｉｏｎｅ！」
+「Esplosione!」
 /Config/SceneSkip
 seg_031f.ogg
 /Config/SceneSkip

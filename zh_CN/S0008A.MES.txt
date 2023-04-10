@@ -4190,7 +4190,7 @@ ap_d0391.ogg
 　
 　
 　
-　脆而不坚的矛盾（Atropos Paradox）！」
+脆而不坚的矛盾（Atropos Paradox）！」
 /Config/SceneSkip
 seg_030g.ogg
 fo

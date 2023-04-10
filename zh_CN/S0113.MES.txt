@@ -4578,7 +4578,7 @@ Thinker
 「2.」
 ap_f0545.ogg
 Thinker
-「１。」
+「1.」
 ch10_01_00.akb
 ch10_01_00_h02.akb
 ch10_01_00.akb

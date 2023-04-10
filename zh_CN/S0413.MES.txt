@@ -1247,7 +1247,7 @@ AI
 　【转移牌】——
 ap_g0134.ogg
 Bookman
-「七海，米德加尔德湖，Ｄ地点。」
+「七海，米德加尔德湖，D地点。」
 /Config/SceneSkip
 seg_070e.ogg
 ch10_01_00.akb

@@ -1797,7 +1797,7 @@ ch03_01_00_h04.akb
 ch03_01_00_h04.akb
 ap_c2667.ogg
 真白
-「那就ＧＧ了。」
+「那就GG了。」
 　真白使用了【孵化牌】。
 /Config/SceneSkip
 seg_070d.ogg

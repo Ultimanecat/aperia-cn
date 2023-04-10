@@ -3938,7 +3938,7 @@ Bookman
 「
 　
 　
-一击必杀之拳！」
+一击必杀之拳（One Turn Kill）！」
 ev1801.akb
 ev1801.akb
 /Config/SceneSkip

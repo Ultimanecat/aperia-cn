@@ -1148,7 +1148,7 @@ ch01_01_00_h06.akb
 ch01_01_00_h06.akb
 ap_a0794.ogg
 艾佩理雅
-『Owner，如果许可是Positive的话，
+『Owner，如果许可是positive的话，
 　哪怕一句话也可以，请发个音声消息过来吧。』
 ap_a0795.ogg
 艾佩理雅

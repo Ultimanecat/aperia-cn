@@ -18,7 +18,7 @@ ch04_01_00_h10.akb
 ch04_01_00_h10.akb
 /Config/SceneSkip
 seg_013a.ogg
-　艾佩理雅登陆进Second后不久，
+　艾佩理雅登录进Second后不久，
 　我的智能机立刻就收到了邮件。
 　
 　邮件附带了一条语音信息，

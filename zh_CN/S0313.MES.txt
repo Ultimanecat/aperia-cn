@@ -660,7 +660,7 @@ ch06_01_00.akb
 /Config/SceneSkip
 seg_028e.ogg
 　一口气拉近和Thinker的距离，
-　我当即便是一招”力劈华山“。
+　我当即便是一招“力劈华山”。
 fo
 fo
 fo

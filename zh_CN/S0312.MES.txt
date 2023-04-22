@@ -668,8 +668,8 @@ ch08_02_00.akb
 ch08_02_00.akb
 /Config/SceneSkip
 t01_008a.ogg
-　眼前出现了
-　大量的病毒的身影。
+　大量的病毒出现在眼前。
+　
 ch04_03_00.akb
 ch04_01_00_h10.akb
 ch04_03_00.akb

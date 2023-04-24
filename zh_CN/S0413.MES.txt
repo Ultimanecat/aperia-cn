@@ -1307,8 +1307,8 @@ Bookman
 　
 ap_g0138.ogg
 Bookman
-「最后，就是作为人质来控制你，副团长阁下。」
-　
+「最后，就是作为人质来控制你，
+　副团长阁下。」
 /Config/SceneSkip
 seg_013n.ogg
 seg_013n.ogg

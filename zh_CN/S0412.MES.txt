@@ -1997,8 +1997,8 @@ ch06_01_00.akb
 ch06_01_00.akb
 ap_f0796.ogg
 Thinker
-『无异议。Alpha队、Bravo队、
-　Delta队，你们跟着Bookman一起行动。』
+『无异议。Alpha队、Bravo队、Delta队，
+　你们跟着Bookman一起行动。』
 　
 ap_f0797.ogg
 Thinker

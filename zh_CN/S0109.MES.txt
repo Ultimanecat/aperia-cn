@@ -1206,7 +1206,7 @@ ap_b2482.ogg
 　只能真白你自己努力了。」
 /Config/SceneSkip
 seg_045.ogg
-　真白逃也似地
+　三羽逃也似地
 　进了里面房间。
 ch03_03_01.akb
 ch03_01_00_h09.akb

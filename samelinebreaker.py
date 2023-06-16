@@ -6,12 +6,10 @@ namelist = []
 cmdlist = []
 with open(namelistfile,"r",encoding = "utf-8") as f:
 	lines = f.readlines()
-	for i in lines:
-		namelist.append(i.strip())
+	namelist.extend(i.strip() for i in lines)
 with open(cmdlistfile,"r",encoding = "utf-8") as f:
 	lines = f.readlines()
-	for i in lines:
-		cmdlist.append(i.strip())
+	cmdlist.extend(i.strip() for i in lines)
 print(namelist)
 print(cmdlist)
 specialchar = "#"
@@ -22,9 +20,13 @@ def needbreaker(s):
 	ss = s.strip()
 	if(ss in namelist or ss in cmdlist or ss == ""):
 		return False
-	if(ss.endswith(".akb") or ss.endswith(".ogg") or ss.endswith(".vsd") or ss.endswith(".mov") or ss.startswith("/Config")):
-		return False
-	return True
+	return (
+		not ss.endswith(".akb")
+		and not ss.endswith(".ogg")
+		and not ss.endswith(".vsd")
+		and not ss.endswith(".mov")
+		and not ss.startswith("/Config")
+	)
 
 logfile = open("./sameline.log","w",encoding = "utf-8")
 	
